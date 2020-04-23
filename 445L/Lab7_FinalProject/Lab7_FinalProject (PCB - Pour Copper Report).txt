@@ -1,0 +1,74 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\Shawn-Laptop\Documents\eagle\445L\Lab7_FinalProject\Lab7_FinalProject (PCB - Pour Copper Report).txt
+Report Written:     Tuesday, October 23, 2018
+Design Path:        C:\Users\Shawn-Laptop\Documents\eagle\445L\Lab7_FinalProject\Lab7_FinalProject.pcb
+Design Title:       
+Created:            10/23/2018 6:46:42 AM
+Last Saved:         
+Editing Time:       4 min
+Units:              mil (precision 0)
+
+C1.2 at 2175,3287 has no thermal spokes
+C10.2 at 3675,2937 has no thermal spokes
+C11.2 at 3600,2937 has no thermal spokes
+C12.2 at 3765,2933 has no thermal spokes
+C13.1 at 3300,3287 has no thermal spokes
+C14.1 at 3100,3287 has no thermal spokes
+C15.2 at 2425,2792 has no thermal spokes
+C16.2 at 4900,3467 has no thermal spokes
+C17.2 at 2325,3287 has no thermal spokes
+C18.2 at 2625,3287 has no thermal spokes
+C19.2 at 2250,3287 has no thermal spokes
+C2.2 at 2085,3283 has no thermal spokes
+C20.2 at 2400,3287 has no thermal spokes
+C21.2 at 2310,3508 has no thermal spokes
+C22.2 at 3850,2613 has no thermal spokes
+C24.2 at 3775,2613 has no thermal spokes
+C25.2 at 3950,2617 has no thermal spokes
+C3.2 at 2475,3512 has no thermal spokes
+C4.2 at 2475,3287 has no thermal spokes
+C5.2 at 2550,3287 has no thermal spokes
+C6.2 at 2400,3512 has no thermal spokes
+C7.2 at 2550,3512 has no thermal spokes
+C8.2 at 2640,3508 has no thermal spokes
+C9.2 at 3525,2937 has no thermal spokes
+U1.12 at 3269,2424 has no thermal spokes
+U1.27 at 3426,2699 has no thermal spokes
+U1.34 at 3328,2876 has no thermal spokes
+U1.35 at 3308,2876 has no thermal spokes
+U1.55 at 2974,2680 has no thermal spokes
+U2.34 at 4778,2901 has no thermal spokes
+C1.2 at 2175,3287 has no thermal spokes
+C10.2 at 3675,2937 has no thermal spokes
+C11.2 at 3600,2937 has no thermal spokes
+C12.2 at 3765,2933 has no thermal spokes
+C13.1 at 3300,3287 has no thermal spokes
+C14.1 at 3100,3287 has no thermal spokes
+C15.2 at 2425,2792 has no thermal spokes
+C16.2 at 4900,3467 has no thermal spokes
+C17.2 at 2325,3287 has no thermal spokes
+C18.2 at 2625,3287 has no thermal spokes
+C19.2 at 2250,3287 has no thermal spokes
+C2.2 at 2085,3283 has no thermal spokes
+C20.2 at 2400,3287 has no thermal spokes
+C21.2 at 2310,3508 has no thermal spokes
+C22.2 at 3850,2613 has no thermal spokes
+C24.2 at 3775,2613 has no thermal spokes
+C25.2 at 3950,2617 has no thermal spokes
+C3.2 at 2475,3512 has no thermal spokes
+C4.2 at 2475,3287 has no thermal spokes
+C5.2 at 2550,3287 has no thermal spokes
+C6.2 at 2400,3512 has no thermal spokes
+C7.2 at 2550,3512 has no thermal spokes
+C8.2 at 2640,3508 has no thermal spokes
+C9.2 at 3525,2937 has no thermal spokes
+U1.12 at 3269,2424 has no thermal spokes
+U1.27 at 3426,2699 has no thermal spokes
+U1.34 at 3328,2876 has no thermal spokes
+U1.35 at 3308,2876 has no thermal spokes
+U1.55 at 2974,2680 has no thermal spokes
+U2.34 at 4778,2901 has no thermal spokes
+
+End Of Report.

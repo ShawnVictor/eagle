@@ -1,0 +1,1271 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Shawn-Laptop\Documents\eagle\445L\Lab7_FinalProject\Lab7_FinalProject (PCB - Design Rule Check Report).txt
+Report Written:     Tuesday, October 23, 2018
+Design Path:        C:\Users\Shawn-Laptop\Documents\eagle\445L\Lab7_FinalProject\Lab7_FinalProject.pcb
+Design Title:       
+Created:            10/23/2018 6:46:42 AM
+Last Saved:         
+Editing Time:       7 min
+Units:              mil (precision 0)
+
+
+Results
+=======
+
+Annular ring too small at (2100,2100)
+    Size is 0 should be 7.
+Annular ring too small at (5450,2100)
+    Size is 0 should be 7.
+Annular ring too small at (5450,4075)
+    Size is 0 should be 7.
+Annular ring too small at (2100,4075)
+    Size is 0 should be 7.
+Pad to Shape Error (P-C) between (2205 3187) and (2210 3187) on Layer "[Top]".
+    Error between Component Pad C1.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2205 3187) and (2215 3187) on Layer "[Top]".
+    Error between Component Pad C1.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2205 3262) and (2210 3262) on Layer "[Top]".
+    Error between Component Pad C1.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2205 3262) and (2215 3262) on Layer "[Top]".
+    Error between Component Pad C1.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2220 3238) and (2210 3238) on Layer "[Top]".
+    Error between Component Shape and Component Pad C19.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2220 3313) and (2210 3313) on Layer "[Top]".
+    Error between Component Shape and Component Pad C19.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2210 3324) and (2215 3324) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (2140 3217) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2210 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3705 2837) and (3710 2837) on Layer "[Top]".
+    Error between Component Pad C10.1 (Net 'N$2') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3645 2888) and (3635 2888) on Layer "[Top]".
+    Error between Component Pad C10.1 (Net 'N$2') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3705 2912) and (3710 2912) on Layer "[Top]".
+    Error between Component Pad C10.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3645 2963) and (3635 2963) on Layer "[Top]".
+    Error between Component Pad C10.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3630 2837) and (3640 2837) on Layer "[Top]".
+    Error between Component Shape and Component Pad C11.1 (Net 'N$2'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3630 2912) and (3640 2912) on Layer "[Top]".
+    Error between Component Shape and Component Pad C11.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (3640 2974) and (3635 2974) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (3640 2863) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3710 2863) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3630 2837) and (3635 2837) on Layer "[Top]".
+    Error between Component Pad C11.1 (Net 'N$2') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3570 2888) and (3560 2888) on Layer "[Top]".
+    Error between Component Pad C11.1 (Net 'N$2') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3630 2912) and (3635 2912) on Layer "[Top]".
+    Error between Component Pad C11.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3570 2963) and (3560 2963) on Layer "[Top]".
+    Error between Component Pad C11.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3555 2837) and (3565 2837) on Layer "[Top]".
+    Error between Component Shape and Component Pad C9.1 (Net 'N$2'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3555 2912) and (3565 2912) on Layer "[Top]".
+    Error between Component Shape and Component Pad C9.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (3565 2974) and (3560 2974) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (3565 2863) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3635 2863) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3795 2841) and (3804 2841) on Layer "[Top]".
+    Error between Component Pad C12.1 (Net 'N$2') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (3795 2908) and (3804 2908) on Layer "[Top]".
+    Error between Component Pad C12.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (3726 2863) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3270 3313) and (3265 3313) on Layer "[Top]".
+    Error between Component Pad C13.1 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Via Error (P-V) between (3330 3262) and (3337 3257) on Layer "[Top]".
+    Error between Component Pad C13.1 (Net 'GND') and Via (Net 'RESET'), Gap is 9 needs to be 10.
+Pad to Shape Error (P-C) between (3270 3238) and (3265 3238) on Layer "[Top]".
+    Error between Component Pad C13.2 (Net 'OSC0') and Component Shape, Gap is 4 needs to be 10.
+Pad to Via Error (P-V) between (3330 3238) and (3337 3243) on Layer "[Top]".
+    Error between Component Pad C13.2 (Net 'OSC0') and Via (Net 'RESET'), Gap is 9 needs to be 10.
+Track to Shape error (T-C) at (3300 3176) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'OSC0'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (3350 3324) and (3335 3324) on Layer "Top Copper".
+    Error between Component Shape and Track (Net 'RESET'), Gap is 9 needs to be 10.
+Via to Shape Error (V-C) between (3335 3250) and (3335 3250) on Layer "[Top]".
+    Error between Component Shape and Via (Net 'RESET'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3070 3313) and (3065 3313) on Layer "[Top]".
+    Error between Component Pad C14.1 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3070 3238) and (3065 3238) on Layer "[Top]".
+    Error between Component Pad C14.2 (Net 'OSC1') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (3100 3176) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'OSC1'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2395 2884) and (2386 2884) on Layer "[Top]".
+    Error between Component Pad C15.1 (Net 'POWER_IN') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (2395 2817) and (2386 2817) on Layer "[Top]".
+    Error between Component Pad C15.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (2386 2753) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'GND'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (2467 2858) and (2464 2858) on Layer "Top Copper".
+    Error between Component Shape and Track (Net 'POWER_IN'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (4870 3559) and (4861 3559) on Layer "[Top]".
+    Error between Component Pad C16.1 (Net '3.3V') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (4870 3492) and (4861 3492) on Layer "[Top]".
+    Error between Component Pad C16.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (4861 3533) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (4850 3533) and (4861 3533) on Layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 5 needs to be 10.
+Track to Shape error (T-C) at (4939 3533) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (4850 3422) and (4861 3422) on Layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 5 needs to be 10.
+Pad to Shape Error (P-C) between (2355 3187) and (2360 3187) on Layer "[Top]".
+    Error between Component Pad C17.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2295 3238) and (2285 3238) on Layer "[Top]".
+    Error between Component Pad C17.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2355 3187) and (2365 3187) on Layer "[Top]".
+    Error between Component Pad C17.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2355 3262) and (2360 3262) on Layer "[Top]".
+    Error between Component Pad C17.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2295 3313) and (2285 3313) on Layer "[Top]".
+    Error between Component Pad C17.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2355 3262) and (2365 3262) on Layer "[Top]".
+    Error between Component Pad C17.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2280 3187) and (2290 3187) on Layer "[Top]".
+    Error between Component Shape and Component Pad C19.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2280 3262) and (2290 3262) on Layer "[Top]".
+    Error between Component Shape and Component Pad C19.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2290 3324) and (2285 3324) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Pad to Shape Error (P-C) between (2370 3238) and (2360 3238) on Layer "[Top]".
+    Error between Component Shape and Component Pad C20.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2370 3313) and (2360 3313) on Layer "[Top]".
+    Error between Component Shape and Component Pad C20.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2360 3324) and (2365 3324) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (2290 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2360 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2655 3187) and (2660 3187) on Layer "[Top]".
+    Error between Component Pad C18.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2595 3238) and (2585 3238) on Layer "[Top]".
+    Error between Component Pad C18.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2655 3262) and (2660 3262) on Layer "[Top]".
+    Error between Component Pad C18.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2595 3313) and (2585 3313) on Layer "[Top]".
+    Error between Component Pad C18.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2655 3262) and (2664 3252) on Layer "Top Copper".
+    Error between Component Pad C18.2 (Net 'GND') and Track (Net '3.3V'), Gap is 9 needs to be 10.
+Pad to Shape Error (P-C) between (2580 3187) and (2590 3187) on Layer "[Top]".
+    Error between Component Shape and Component Pad C5.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2580 3262) and (2590 3262) on Layer "[Top]".
+    Error between Component Shape and Component Pad C5.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2590 3324) and (2585 3324) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (2590 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2660 3247) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2280 3187) and (2285 3187) on Layer "[Top]".
+    Error between Component Pad C19.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2280 3262) and (2285 3262) on Layer "[Top]".
+    Error between Component Pad C19.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (2215 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2285 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2115 3191) and (2124 3191) on Layer "[Top]".
+    Error between Component Pad C2.1 (Net '3.3V') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (2115 3258) and (2124 3258) on Layer "[Top]".
+    Error between Component Pad C2.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (2124 3217) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3187) and (2435 3187) on Layer "[Top]".
+    Error between Component Pad C20.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3187) and (2440 3187) on Layer "[Top]".
+    Error between Component Pad C20.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3262) and (2435 3262) on Layer "[Top]".
+    Error between Component Pad C20.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3262) and (2440 3262) on Layer "[Top]".
+    Error between Component Pad C20.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2445 3238) and (2435 3238) on Layer "[Top]".
+    Error between Component Shape and Component Pad C4.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2445 3313) and (2435 3313) on Layer "[Top]".
+    Error between Component Shape and Component Pad C4.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2435 3324) and (2440 3324) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (2365 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2435 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2340 3416) and (2349 3416) on Layer "[Top]".
+    Error between Component Pad C21.1 (Net '3.3V') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (2340 3483) and (2349 3483) on Layer "[Top]".
+    Error between Component Pad C21.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (2349 3438) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3820 2713) and (3815 2713) on Layer "[Top]".
+    Error between Component Pad C22.1 (Net 'N$11') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3820 2713) and (3810 2713) on Layer "[Top]".
+    Error between Component Pad C22.1 (Net 'N$11') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3820 2638) and (3815 2638) on Layer "[Top]".
+    Error between Component Pad C22.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3820 2638) and (3810 2638) on Layer "[Top]".
+    Error between Component Pad C22.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3805 2662) and (3815 2662) on Layer "[Top]".
+    Error between Component Shape and Component Pad C24.1 (Net 'N$11'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3805 2587) and (3815 2587) on Layer "[Top]".
+    Error between Component Shape and Component Pad C24.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (3815 2576) and (3810 2576) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (3815 2687) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3885 2687) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (5012 2670) and (5012 2665) on Layer "[Top]".
+    Error between Component Pad C23.1 (Net 'N$11') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (5087 2670) and (5087 2665) on Layer "[Top]".
+    Error between Component Pad C23.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (5105 2735) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'GND'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (5001 2750) and (5001 2735) on Layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 9 needs to be 10.
+Track to Shape error (T-C) at (5001 2685) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (5070 2665) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3745 2713) and (3740 2713) on Layer "[Top]".
+    Error between Component Pad C24.1 (Net 'N$11') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3745 2638) and (3740 2638) on Layer "[Top]".
+    Error between Component Pad C24.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (3810 2687) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3920 2709) and (3911 2709) on Layer "[Top]".
+    Error between Component Pad C25.1 (Net 'N$11') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (3920 2642) and (3911 2642) on Layer "[Top]".
+    Error between Component Pad C25.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (3911 2687) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3989 2683) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$11'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (4720 3338) and (4715 3338) on Layer "[Top]".
+    Error between Component Pad C26.1 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (4720 3263) and (4715 3263) on Layer "[Top]".
+    Error between Component Pad C26.2 (Net 'N$13') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (4750 3349) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'GND'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (4750 3201) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$13'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (4520 3338) and (4515 3338) on Layer "[Top]".
+    Error between Component Pad C27.1 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (4520 3263) and (4515 3263) on Layer "[Top]".
+    Error between Component Pad C27.2 (Net 'N$12') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape Error (T-C) between (4588 3350) and (4585 3349) on Layer "Top Copper".
+    Error between Component Shape and Track (Net 'GND'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (4550 3201) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$12'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3412) and (2510 3412) on Layer "[Top]".
+    Error between Component Pad C3.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2445 3463) and (2435 3463) on Layer "[Top]".
+    Error between Component Pad C3.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3412) and (2515 3412) on Layer "[Top]".
+    Error between Component Pad C3.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3487) and (2510 3487) on Layer "[Top]".
+    Error between Component Pad C3.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2445 3538) and (2435 3538) on Layer "[Top]".
+    Error between Component Pad C3.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3487) and (2515 3487) on Layer "[Top]".
+    Error between Component Pad C3.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3412) and (2440 3412) on Layer "[Top]".
+    Error between Component Shape and Component Pad C6.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3487) and (2440 3487) on Layer "[Top]".
+    Error between Component Shape and Component Pad C6.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2440 3549) and (2435 3549) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Pad to Shape Error (P-C) between (2520 3463) and (2510 3463) on Layer "[Top]".
+    Error between Component Shape and Component Pad C7.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2520 3538) and (2510 3538) on Layer "[Top]".
+    Error between Component Shape and Component Pad C7.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2510 3549) and (2515 3549) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (2510 3438) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2440 3438) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3187) and (2510 3187) on Layer "[Top]".
+    Error between Component Pad C4.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3187) and (2515 3187) on Layer "[Top]".
+    Error between Component Pad C4.1 (Net '3.3V') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3262) and (2510 3262) on Layer "[Top]".
+    Error between Component Pad C4.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2505 3262) and (2515 3262) on Layer "[Top]".
+    Error between Component Pad C4.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2520 3238) and (2510 3238) on Layer "[Top]".
+    Error between Component Shape and Component Pad C5.1 (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (2520 3313) and (2510 3313) on Layer "[Top]".
+    Error between Component Shape and Component Pad C5.2 (Net 'GND'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (2510 3324) and (2515 3324) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (2440 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2510 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2580 3187) and (2585 3187) on Layer "[Top]".
+    Error between Component Pad C5.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2580 3262) and (2585 3262) on Layer "[Top]".
+    Error between Component Pad C5.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (2515 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2585 3213) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3412) and (2435 3412) on Layer "[Top]".
+    Error between Component Pad C6.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2430 3487) and (2435 3487) on Layer "[Top]".
+    Error between Component Pad C6.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (2435 3438) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2365 3438) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2580 3412) and (2585 3412) on Layer "[Top]".
+    Error between Component Pad C7.1 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2580 3487) and (2585 3487) on Layer "[Top]".
+    Error between Component Pad C7.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (2585 3442) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2515 3438) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2670 3416) and (2679 3416) on Layer "[Top]".
+    Error between Component Pad C8.1 (Net '3.3V') and Component Shape, Gap is 8 needs to be 10.
+Pad to Shape Error (P-C) between (2670 3483) and (2679 3483) on Layer "[Top]".
+    Error between Component Pad C8.2 (Net 'GND') and Component Shape, Gap is 8 needs to be 10.
+Track to Shape error (T-C) at (2679 3433) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2601 3442) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3555 2837) and (3560 2837) on Layer "[Top]".
+    Error between Component Pad C9.1 (Net 'N$2') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3495 2888) and (3485 2888) on Layer "[Top]".
+    Error between Component Pad C9.1 (Net 'N$2') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3555 2912) and (3560 2912) on Layer "[Top]".
+    Error between Component Pad C9.2 (Net 'GND') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3495 2963) and (3485 2963) on Layer "[Top]".
+    Error between Component Pad C9.2 (Net 'GND') and Component Shape, Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3480 2837) and (3490 2837) on Layer "[Top]".
+    Error between Component Shape and Component Pad R4.1 (Net 'WAKE'), Gap is 10 needs to be 10.
+Pad to Shape Error (P-C) between (3480 2912) and (3490 2912) on Layer "[Top]".
+    Error between Component Shape and Component Pad R4.2 (Net '3.3V'), Gap is 10 needs to be 10.
+Shape to Shape Error (C-C) between (3490 2974) and (3485 2974) on Layer "[Top]".
+    Error between Component Shape and Component Shape, Gap is 3 needs to be 10.
+Track to Shape error (T-C) at (3525 2826) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3560 2863) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$2'), Gap is 0 needs to be 10.
+Pad to Pad Error (P-P) between (2286 2708) and (2286 2718) on Layer "[Top]".
+    Error between Component Pad J1.D+ and Component Pad J1.D-, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2286 2692) and (2286 2682) on Layer "[Top]".
+    Error between Component Pad J1.D+ and Component Pad J1.ID, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2286 2733) and (2286 2743) on Layer "[Top]".
+    Error between Component Pad J1.D- and Component Pad J1.VBUS (Net 'VBUS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2286 2667) and (2286 2657) on Layer "[Top]".
+    Error between Component Pad J1.ID and Component Pad J1.GND (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2286 2667) and (2293 2659) on Layer "Top Copper".
+    Error between Component Pad J1.ID and Track (Net 'GND'), Gap is 5 needs to be 10.
+Track to Pad Error (T-P) between (4563 2250) and (4550 2250) on Layer "Bottom Copper".
+    Error between Component Pad J3.3 (Net 'UC2_PF1') and Track (Net 'GND'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4537 2250) and (4550 2250) on Layer "Bottom Copper".
+    Error between Component Pad J3.5 (Net 'UC2_PF2') and Track (Net 'GND'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4263 2250) and (4250 2250) on Layer "Bottom Copper".
+    Error between Component Pad J3.9 (Net 'UC2_PF4') and Track (Net 'UC2_PE5/ESP_RX'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4263 2150) and (4250 2150) on Layer "Bottom Copper".
+    Error between Component Pad J3.10 (Net 'GND') and Track (Net 'UC2_PE5/ESP_RX'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4163 2250) and (4150 2250) on Layer "Bottom Copper".
+    Error between Component Pad J3.11 (Net 'UC2_PC0/TCK') and Track (Net 'GND'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4237 2250) and (4250 2250) on Layer "Bottom Copper".
+    Error between Component Pad J3.11 (Net 'UC2_PC0/TCK') and Track (Net 'UC2_PE5/ESP_RX'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4237 2150) and (4250 2150) on Layer "Bottom Copper".
+    Error between Component Pad J3.12 (Net 'GND') and Track (Net 'UC2_PE5/ESP_RX'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4137 2250) and (4150 2250) on Layer "Bottom Copper".
+    Error between Component Pad J3.13 (Net 'UC2_PC1/TMS') and Track (Net 'GND'), Gap is 8 needs to be 10.
+Track to Pad Error (T-P) between (4124 2674) and (4116 2666) on Layer "Top Copper".
+    Error between Component Pad JTAG_UC2.3 (Net 'UC2_PC1/TMS') and Track (Net 'N$11'), Gap is 6 needs to be 10.
+Pad to Shape Error (P-C) between (4830 3437) and (4835 3437) on Layer "[Top]".
+    Error between Component Pad R1.1 (Net 'N$14') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (4830 3512) and (4835 3512) on Layer "[Top]".
+    Error between Component Pad R1.2 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (4800 3574) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (4850 3533) and (4835 3533) on Layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 9 needs to be 10.
+Track to Shape error (T-C) at (4835 3533) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape Error (T-C) between (4850 3426) and (4835 3426) on Layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 9 needs to be 10.
+Track to Shape error (T-C) at (4765 3463) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$14'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3380 3387) and (3385 3387) on Layer "[Top]".
+    Error between Component Pad R2.1 (Net 'RESET') and Component Shape, Gap is 4 needs to be 10.
+Track to Pad Error (T-P) between (3380 3438) and (3389 3448) on Layer "Top Copper".
+    Error between Component Pad R2.1 (Net 'RESET') and Track (Net '3.3V'), Gap is 9 needs to be 10.
+Pad to Shape Error (P-C) between (3380 3462) and (3385 3462) on Layer "[Top]".
+    Error between Component Pad R2.2 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (3385 3453) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3350 3524) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3350 3376) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'RESET'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3315 3400) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'RESET'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (2655 2287) and (2660 2287) on Layer "[Top]".
+    Error between Component Pad R3.1 (Net 'POWER_LED') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (2655 2362) and (2660 2362) on Layer "[Top]".
+    Error between Component Pad R3.2 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape Error (T-C) between (2663 2425) and (2660 2424) on Layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2590 2387) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (2625 2276) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'POWER_LED'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (3480 2837) and (3485 2837) on Layer "[Top]".
+    Error between Component Pad R4.1 (Net 'WAKE') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (3480 2912) and (3485 2912) on Layer "[Top]".
+    Error between Component Pad R4.2 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Track to Shape error (T-C) at (3415 2924) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3450 2974) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3426 2826) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'WAKE'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (4937 2795) and (4937 2790) on Layer "[Top]".
+    Error between Component Pad R5.1 (Net 'N$15') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (5012 2795) and (5012 2790) on Layer "[Top]".
+    Error between Component Pad R5.2 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Via to Shape Error (V-C) between (4940 2780) and (4940 2790) on Layer "[Top]".
+    Error between Component Shape and Via (Net 'GND'), Gap is 9 needs to be 10.
+Track to Shape error (T-C) at (5074 2825) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (5050 2790) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (5018 2860) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (4926 2823) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$15'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3614 3839) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$16'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (3575 3722) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'N$17'), Gap is 0 needs to be 10.
+Pad to Shape Error (P-C) between (5280 2487) and (5285 2487) on Layer "[Top]".
+    Error between Component Pad R7.1 (Net 'ESP_GPIO0') and Component Shape, Gap is 4 needs to be 10.
+Pad to Shape Error (P-C) between (5280 2562) and (5285 2562) on Layer "[Top]".
+    Error between Component Pad R7.2 (Net '3.3V') and Component Shape, Gap is 4 needs to be 10.
+Pad to Via Error (P-V) between (5220 2612) and (5213 2612) on Layer "[Top]".
+    Error between Component Pad R7.2 (Net '3.3V') and Via (Net 'UC2_PA4/SDCARD_DO'), Gap is 7 needs to be 10.
+Track to Shape error (T-C) at (5285 2587) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Track to Shape error (T-C) at (5250 2624) on layer "Top Copper".
+    Error between Component Shape and Track (Net '3.3V'), Gap is 0 needs to be 10.
+Via to Shape Error (V-C) between (5213 2612) and (5215 2612) on Layer "[Top]".
+    Error between Component Shape and Via (Net 'UC2_PA4/SDCARD_DO'), Gap is 1 needs to be 10.
+Track to Shape error (T-C) at (5250 2476) on layer "Top Copper".
+    Error between Component Shape and Track (Net 'ESP_GPIO0'), Gap is 0 needs to be 10.
+Pad to Pad Error (P-P) between (3057 2408) and (3067 2408) on Layer "[Top]".
+    Error between Component Pad U1.1 (Net 'UC12_PB6/7/RX2TX') and Component Pad U1.2 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3057 2408) and (3072 2408) on Layer "Top Copper".
+    Error between Component Pad U1.1 (Net 'UC12_PB6/7/RX2TX') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3057 2424) and (3072 2424) on Layer "Top Copper".
+    Error between Component Pad U1.1 (Net 'UC12_PB6/7/RX2TX') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3077 2408) and (3087 2408) on Layer "[Top]".
+    Error between Component Pad U1.2 (Net '3.3V') and Component Pad U1.3 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3077 2408) and (3092 2408) on Layer "Top Copper".
+    Error between Component Pad U1.2 (Net '3.3V') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3067 2424) and (3052 2424) on Layer "Top Copper".
+    Error between Component Pad U1.2 (Net '3.3V') and Track (Net 'UC12_PB6/7/RX2TX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3097 2408) and (3106 2408) on Layer "[Top]".
+    Error between Component Pad U1.3 (Net 'GND') and Component Pad U1.4 (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3087 2424) and (3072 2424) on Layer "Top Copper".
+    Error between Component Pad U1.3 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3087 2440) and (3072 2440) on Layer "Top Copper".
+    Error between Component Pad U1.3 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3097 2424) and (3111 2424) on Layer "Top Copper".
+    Error between Component Pad U1.3 (Net 'GND') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3116 2408) and (3126 2408) on Layer "[Top]".
+    Error between Component Pad U1.4 (Net 'UC12_PB6/7/TX2RX') and Component Pad U1.5 (Net 'UC1_PF4'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3106 2424) and (3092 2424) on Layer "Top Copper".
+    Error between Component Pad U1.4 (Net 'UC12_PB6/7/TX2RX') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3116 2408) and (3131 2408) on Layer "Top Copper".
+    Error between Component Pad U1.4 (Net 'UC12_PB6/7/TX2RX') and Track (Net 'UC1_PF4'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3136 2408) and (3146 2408) on Layer "[Top]".
+    Error between Component Pad U1.5 (Net 'UC1_PF4') and Component Pad U1.6, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3126 2440) and (3111 2440) on Layer "Top Copper".
+    Error between Component Pad U1.5 (Net 'UC1_PF4') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3156 2408) and (3166 2408) on Layer "[Top]".
+    Error between Component Pad U1.6 and Component Pad U1.7, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3146 2424) and (3131 2424) on Layer "Top Copper".
+    Error between Component Pad U1.6 and Track (Net 'UC1_PF4'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3175 2408) and (3185 2408) on Layer "[Top]".
+    Error between Component Pad U1.7 and Component Pad U1.8, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3195 2408) and (3205 2408) on Layer "[Top]".
+    Error between Component Pad U1.8 and Component Pad U1.9, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3215 2408) and (3225 2408) on Layer "[Top]".
+    Error between Component Pad U1.9 and Component Pad U1.10, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3234 2408) and (3244 2408) on Layer "[Top]".
+    Error between Component Pad U1.10 and Component Pad U1.11 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3234 2424) and (3249 2424) on Layer "Top Copper".
+    Error between Component Pad U1.10 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3254 2408) and (3264 2408) on Layer "[Top]".
+    Error between Component Pad U1.11 (Net '3.3V') and Component Pad U1.12 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3254 2408) and (3269 2408) on Layer "Top Copper".
+    Error between Component Pad U1.11 (Net '3.3V') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3274 2408) and (3284 2408) on Layer "[Top]".
+    Error between Component Pad U1.12 (Net 'GND') and Component Pad U1.13 (Net 'UC1_PC7'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3264 2440) and (3249 2440) on Layer "Top Copper".
+    Error between Component Pad U1.12 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3294 2408) and (3303 2408) on Layer "[Top]".
+    Error between Component Pad U1.13 (Net 'UC1_PC7') and Component Pad U1.14 (Net 'UC1_PC6'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3284 2424) and (3269 2424) on Layer "Top Copper".
+    Error between Component Pad U1.13 (Net 'UC1_PC7') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3313 2408) and (3323 2408) on Layer "[Top]".
+    Error between Component Pad U1.14 (Net 'UC1_PC6') and Component Pad U1.15 (Net 'UC1_PC5'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3333 2408) and (3343 2408) on Layer "[Top]".
+    Error between Component Pad U1.15 (Net 'UC1_PC5') and Component Pad U1.16 (Net 'UC1_PC4'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3333 2408) and (3348 2408) on Layer "Top Copper".
+    Error between Component Pad U1.15 (Net 'UC1_PC5') and Track (Net 'UC1_PC4'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2507) and (3442 2517) on Layer "[Top]".
+    Error between Component Pad U1.17 and Component Pad U1.18, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2527) and (3442 2537) on Layer "[Top]".
+    Error between Component Pad U1.18 and Component Pad U1.19, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2547) and (3442 2556) on Layer "[Top]".
+    Error between Component Pad U1.19 and Component Pad U1.20, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2566) and (3442 2576) on Layer "[Top]".
+    Error between Component Pad U1.20 and Component Pad U1.21, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2586) and (3442 2596) on Layer "[Top]".
+    Error between Component Pad U1.21 and Component Pad U1.22, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2606) and (3442 2616) on Layer "[Top]".
+    Error between Component Pad U1.22 and Component Pad U1.23, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2625) and (3442 2635) on Layer "[Top]".
+    Error between Component Pad U1.23 and Component Pad U1.24, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2645) and (3442 2655) on Layer "[Top]".
+    Error between Component Pad U1.24 and Component Pad U1.25 (Net 'N$2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3442 2645) and (3442 2660) on Layer "Top Copper".
+    Error between Component Pad U1.24 and Track (Net 'N$2'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2665) and (3442 2675) on Layer "[Top]".
+    Error between Component Pad U1.25 (Net 'N$2') and Component Pad U1.26 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2665) and (3426 2680) on Layer "Top Copper".
+    Error between Component Pad U1.25 (Net 'N$2') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2684) and (3442 2694) on Layer "[Top]".
+    Error between Component Pad U1.26 (Net '3.3V') and Component Pad U1.27 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2675) and (3426 2660) on Layer "Top Copper".
+    Error between Component Pad U1.26 (Net '3.3V') and Track (Net 'N$2'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2704) and (3442 2714) on Layer "[Top]".
+    Error between Component Pad U1.27 (Net 'GND') and Component Pad U1.28 (Net 'UC1_PF0'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3410 2694) and (3410 2680) on Layer "Top Copper".
+    Error between Component Pad U1.27 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3442 2704) and (3442 2719) on Layer "Top Copper".
+    Error between Component Pad U1.27 (Net 'GND') and Track (Net 'UC1_PF0'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2724) and (3442 2734) on Layer "[Top]".
+    Error between Component Pad U1.28 (Net 'UC1_PF0') and Component Pad U1.29 (Net 'UC1_PF1'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3442 2724) and (3442 2739) on Layer "Top Copper".
+    Error between Component Pad U1.28 (Net 'UC1_PF0') and Track (Net 'UC1_PF1'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2744) and (3442 2753) on Layer "[Top]".
+    Error between Component Pad U1.29 (Net 'UC1_PF1') and Component Pad U1.30 (Net 'UC1_PF2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2734) and (3426 2719) on Layer "Top Copper".
+    Error between Component Pad U1.29 (Net 'UC1_PF1') and Track (Net 'UC1_PF0'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2744) and (3426 2758) on Layer "Top Copper".
+    Error between Component Pad U1.29 (Net 'UC1_PF1') and Track (Net 'UC1_PF2'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2763) and (3442 2773) on Layer "[Top]".
+    Error between Component Pad U1.30 (Net 'UC1_PF2') and Component Pad U1.31 (Net 'UC1_PF3'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2753) and (3426 2739) on Layer "Top Copper".
+    Error between Component Pad U1.30 (Net 'UC1_PF2') and Track (Net 'UC1_PF1'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3424 2763) and (3424 2775) on Layer "Top Copper".
+    Error between Component Pad U1.30 (Net 'UC1_PF2') and Track (Net 'UC1_PF3'), Gap is 7 needs to be 10.
+Pad to Pad Error (P-P) between (3442 2783) and (3442 2793) on Layer "[Top]".
+    Error between Component Pad U1.31 (Net 'UC1_PF3') and Component Pad U1.32 (Net 'WAKE'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2783) and (3426 2798) on Layer "Top Copper".
+    Error between Component Pad U1.31 (Net 'UC1_PF3') and Track (Net 'WAKE'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3410 2773) and (3410 2758) on Layer "Top Copper".
+    Error between Component Pad U1.31 (Net 'UC1_PF3') and Track (Net 'UC1_PF2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3426 2793) and (3426 2778) on Layer "Top Copper".
+    Error between Component Pad U1.32 (Net 'WAKE') and Track (Net 'UC1_PF3'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3343 2892) and (3333 2892) on Layer "[Top]".
+    Error between Component Pad U1.33 and Component Pad U1.34 (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3303 2892) and (3294 2892) on Layer "[Top]".
+    Error between Component Pad U1.35 (Net 'GND') and Component Pad U1.36, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3284 2892) and (3274 2892) on Layer "[Top]".
+    Error between Component Pad U1.36 and Component Pad U1.37 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3292 2858) and (3300 2850) on Layer "Top Copper".
+    Error between Component Pad U1.36 and Track (Net 'GND'), Gap is 6 needs to be 10.
+Track to Pad Error (T-P) between (3284 2892) and (3269 2892) on Layer "Top Copper".
+    Error between Component Pad U1.36 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3264 2892) and (3254 2892) on Layer "[Top]".
+    Error between Component Pad U1.37 (Net '3.3V') and Component Pad U1.38 (Net 'RESET'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3264 2877) and (3250 2877) on Layer "Top Copper".
+    Error between Component Pad U1.37 (Net '3.3V') and Track (Net 'RESET'), Gap is 9 needs to be 10.
+Track to Pad Error (T-P) between (3264 2892) and (3249 2892) on Layer "Top Copper".
+    Error between Component Pad U1.37 (Net '3.3V') and Track (Net 'RESET'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3244 2892) and (3234 2892) on Layer "[Top]".
+    Error between Component Pad U1.38 (Net 'RESET') and Component Pad U1.39 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3244 2876) and (3230 2876) on Layer "Top Copper".
+    Error between Component Pad U1.38 (Net 'RESET') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3254 2860) and (3269 2860) on Layer "Top Copper".
+    Error between Component Pad U1.38 (Net 'RESET') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3225 2892) and (3215 2892) on Layer "[Top]".
+    Error between Component Pad U1.39 (Net 'GND') and Component Pad U1.40 (Net 'OSC0'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3225 2892) and (3210 2892) on Layer "Top Copper".
+    Error between Component Pad U1.39 (Net 'GND') and Track (Net 'OSC0'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3234 2876) and (3249 2876) on Layer "Top Copper".
+    Error between Component Pad U1.39 (Net 'GND') and Track (Net 'RESET'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3234 2876) and (3249 2876) on Layer "Top Copper".
+    Error between Component Pad U1.39 (Net 'GND') and Track (Net 'RESET'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3205 2892) and (3195 2892) on Layer "[Top]".
+    Error between Component Pad U1.40 (Net 'OSC0') and Component Pad U1.41 (Net 'OSC1'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3215 2860) and (3230 2860) on Layer "Top Copper".
+    Error between Component Pad U1.40 (Net 'OSC0') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3205 2892) and (3190 2892) on Layer "Top Copper".
+    Error between Component Pad U1.40 (Net 'OSC0') and Track (Net 'OSC1'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3185 2892) and (3175 2892) on Layer "[Top]".
+    Error between Component Pad U1.41 (Net 'OSC1') and Component Pad U1.42 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3185 2876) and (3170 2876) on Layer "Top Copper".
+    Error between Component Pad U1.41 (Net 'OSC1') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3195 2876) and (3210 2876) on Layer "Top Copper".
+    Error between Component Pad U1.41 (Net 'OSC1') and Track (Net 'OSC0'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3166 2892) and (3156 2892) on Layer "[Top]".
+    Error between Component Pad U1.42 (Net '3.3V') and Component Pad U1.43, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3175 2876) and (3190 2876) on Layer "Top Copper".
+    Error between Component Pad U1.42 (Net '3.3V') and Track (Net 'OSC1'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3146 2892) and (3136 2892) on Layer "[Top]".
+    Error between Component Pad U1.43 and Component Pad U1.44, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (3156 2860) and (3170 2860) on Layer "Top Copper".
+    Error between Component Pad U1.43 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3126 2892) and (3116 2892) on Layer "[Top]".
+    Error between Component Pad U1.44 and Component Pad U1.45, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3106 2892) and (3097 2892) on Layer "[Top]".
+    Error between Component Pad U1.45 and Component Pad U1.46, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3087 2892) and (3077 2892) on Layer "[Top]".
+    Error between Component Pad U1.46 and Component Pad U1.47, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (3067 2892) and (3057 2892) on Layer "[Top]".
+    Error between Component Pad U1.47 and Component Pad U1.48, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2793) and (2958 2783) on Layer "[Top]".
+    Error between Component Pad U1.49 (Net 'UC1_PC3/TDO') and Component Pad U1.50 (Net 'UC1_PC2/TDI'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2958 2793) and (2958 2778) on Layer "Top Copper".
+    Error between Component Pad U1.49 (Net 'UC1_PC3/TDO') and Track (Net 'UC1_PC2/TDI'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2773) and (2958 2763) on Layer "[Top]".
+    Error between Component Pad U1.50 (Net 'UC1_PC2/TDI') and Component Pad U1.51 (Net 'UC1_PC1/TMS'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2783) and (2974 2798) on Layer "Top Copper".
+    Error between Component Pad U1.50 (Net 'UC1_PC2/TDI') and Track (Net 'UC1_PC3/TDO'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2958 2773) and (2958 2758) on Layer "Top Copper".
+    Error between Component Pad U1.50 (Net 'UC1_PC2/TDI') and Track (Net 'UC1_PC1/TMS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2753) and (2958 2744) on Layer "[Top]".
+    Error between Component Pad U1.51 (Net 'UC1_PC1/TMS') and Component Pad U1.52 (Net 'UC1_PC0/TCK'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2763) and (2974 2778) on Layer "Top Copper".
+    Error between Component Pad U1.51 (Net 'UC1_PC1/TMS') and Track (Net 'UC1_PC2/TDI'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2958 2753) and (2958 2739) on Layer "Top Copper".
+    Error between Component Pad U1.51 (Net 'UC1_PC1/TMS') and Track (Net 'UC1_PC0/TCK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2734) and (2958 2724) on Layer "[Top]".
+    Error between Component Pad U1.52 (Net 'UC1_PC0/TCK') and Component Pad U1.53, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2744) and (2974 2758) on Layer "Top Copper".
+    Error between Component Pad U1.52 (Net 'UC1_PC0/TCK') and Track (Net 'UC1_PC1/TMS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2714) and (2958 2704) on Layer "[Top]".
+    Error between Component Pad U1.53 and Component Pad U1.54 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2714) and (2974 2699) on Layer "Top Copper".
+    Error between Component Pad U1.53 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2724) and (2974 2739) on Layer "Top Copper".
+    Error between Component Pad U1.53 and Track (Net 'UC1_PC0/TCK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2694) and (2958 2684) on Layer "[Top]".
+    Error between Component Pad U1.54 (Net '3.3V') and Component Pad U1.55 (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2675) and (2958 2665) on Layer "[Top]".
+    Error between Component Pad U1.55 (Net 'GND') and Component Pad U1.56 (Net 'N$2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2990 2684) and (2990 2699) on Layer "Top Copper".
+    Error between Component Pad U1.55 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2675) and (2974 2660) on Layer "Top Copper".
+    Error between Component Pad U1.55 (Net 'GND') and Track (Net 'N$2'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2655) and (2958 2645) on Layer "[Top]".
+    Error between Component Pad U1.56 (Net 'N$2') and Component Pad U1.57 (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2655) and (2974 2640) on Layer "Top Copper".
+    Error between Component Pad U1.56 (Net 'N$2') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2635) and (2958 2625) on Layer "[Top]".
+    Error between Component Pad U1.57 (Net 'UC12_PB5/FSS') and Component Pad U1.58 (Net 'UC12_PB4/CLK'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2990 2645) and (2990 2660) on Layer "Top Copper".
+    Error between Component Pad U1.57 (Net 'UC12_PB5/FSS') and Track (Net 'N$2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2635) and (2974 2620) on Layer "Top Copper".
+    Error between Component Pad U1.57 (Net 'UC12_PB5/FSS') and Track (Net 'UC12_PB4/CLK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2616) and (2958 2606) on Layer "[Top]".
+    Error between Component Pad U1.58 (Net 'UC12_PB4/CLK') and Component Pad U1.59, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2990 2625) and (2990 2640) on Layer "Top Copper".
+    Error between Component Pad U1.58 (Net 'UC12_PB4/CLK') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2596) and (2958 2586) on Layer "[Top]".
+    Error between Component Pad U1.59 and Component Pad U1.60, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2990 2606) and (2990 2620) on Layer "Top Copper".
+    Error between Component Pad U1.59 and Track (Net 'UC12_PB4/CLK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2576) and (2958 2566) on Layer "[Top]".
+    Error between Component Pad U1.60 and Component Pad U1.61 (Net 'UC1_PD0/SSI3_CLK'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2958 2576) and (2958 2561) on Layer "Top Copper".
+    Error between Component Pad U1.60 and Track (Net 'UC1_PD0/SSI3_CLK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2556) and (2958 2547) on Layer "[Top]".
+    Error between Component Pad U1.61 (Net 'UC1_PD0/SSI3_CLK') and Component Pad U1.62, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2537) and (2958 2527) on Layer "[Top]".
+    Error between Component Pad U1.62 and Component Pad U1.63, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2974 2547) and (2974 2561) on Layer "Top Copper".
+    Error between Component Pad U1.62 and Track (Net 'UC1_PD0/SSI3_CLK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (2958 2517) and (2958 2507) on Layer "[Top]".
+    Error between Component Pad U1.63 and Component Pad U1.64 (Net 'UC1_PD3/SSI3_TX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (2958 2517) and (2958 2502) on Layer "Top Copper".
+    Error between Component Pad U1.63 and Track (Net 'UC1_PD3/SSI3_TX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4507 2433) and (4517 2433) on Layer "[Top]".
+    Error between Component Pad U2.1 (Net 'UC12_PB6/7/TX2RX') and Component Pad U2.2 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4507 2449) and (4522 2449) on Layer "Top Copper".
+    Error between Component Pad U2.1 (Net 'UC12_PB6/7/TX2RX') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4507 2433) and (4522 2433) on Layer "Top Copper".
+    Error between Component Pad U2.1 (Net 'UC12_PB6/7/TX2RX') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4527 2433) and (4537 2433) on Layer "[Top]".
+    Error between Component Pad U2.2 (Net '3.3V') and Component Pad U2.3 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4527 2449) and (4542 2449) on Layer "Top Copper".
+    Error between Component Pad U2.2 (Net '3.3V') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4517 2449) and (4502 2449) on Layer "Top Copper".
+    Error between Component Pad U2.2 (Net '3.3V') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4547 2433) and (4556 2433) on Layer "[Top]".
+    Error between Component Pad U2.3 (Net 'GND') and Component Pad U2.4 (Net 'UC12_PB6/7/RX2TX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4537 2465) and (4522 2465) on Layer "Top Copper".
+    Error between Component Pad U2.3 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4537 2449) and (4522 2449) on Layer "Top Copper".
+    Error between Component Pad U2.3 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4547 2449) and (4561 2449) on Layer "Top Copper".
+    Error between Component Pad U2.3 (Net 'GND') and Track (Net 'UC12_PB6/7/RX2TX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4566 2433) and (4576 2433) on Layer "[Top]".
+    Error between Component Pad U2.4 (Net 'UC12_PB6/7/RX2TX') and Component Pad U2.5 (Net 'UC2_PF4'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4558 2430) and (4550 2422) on Layer "Top Copper".
+    Error between Component Pad U2.4 (Net 'UC12_PB6/7/RX2TX') and Track (Net 'GND'), Gap is 6 needs to be 10.
+Track to Pad Error (T-P) between (4566 2433) and (4581 2433) on Layer "Top Copper".
+    Error between Component Pad U2.4 (Net 'UC12_PB6/7/RX2TX') and Track (Net 'UC2_PF4'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4586 2433) and (4596 2433) on Layer "[Top]".
+    Error between Component Pad U2.5 (Net 'UC2_PF4') and Component Pad U2.6, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4576 2465) and (4561 2465) on Layer "Top Copper".
+    Error between Component Pad U2.5 (Net 'UC2_PF4') and Track (Net 'UC12_PB6/7/RX2TX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4606 2433) and (4616 2433) on Layer "[Top]".
+    Error between Component Pad U2.6 and Component Pad U2.7 (Net 'UC2_PE2/MIC_OUT'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4606 2449) and (4620 2449) on Layer "Top Copper".
+    Error between Component Pad U2.6 and Track (Net 'UC2_PE2/MIC_OUT'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4596 2449) and (4581 2449) on Layer "Top Copper".
+    Error between Component Pad U2.6 and Track (Net 'UC2_PF4'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4625 2433) and (4635 2433) on Layer "[Top]".
+    Error between Component Pad U2.7 (Net 'UC2_PE2/MIC_OUT') and Component Pad U2.8 (Net 'UC2_PE1/ESP_RESET'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4625 2433) and (4640 2433) on Layer "Top Copper".
+    Error between Component Pad U2.7 (Net 'UC2_PE2/MIC_OUT') and Track (Net 'UC2_PE1/ESP_RESET'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4645 2433) and (4655 2433) on Layer "[Top]".
+    Error between Component Pad U2.8 (Net 'UC2_PE1/ESP_RESET') and Component Pad U2.9 (Net 'UC2_PE0/ESP_GPIO2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4645 2449) and (4660 2449) on Layer "Top Copper".
+    Error between Component Pad U2.8 (Net 'UC2_PE1/ESP_RESET') and Track (Net 'UC2_PE0/ESP_GPIO2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4635 2465) and (4620 2465) on Layer "Top Copper".
+    Error between Component Pad U2.8 (Net 'UC2_PE1/ESP_RESET') and Track (Net 'UC2_PE2/MIC_OUT'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4665 2433) and (4675 2433) on Layer "[Top]".
+    Error between Component Pad U2.9 (Net 'UC2_PE0/ESP_GPIO2') and Component Pad U2.10, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4655 2449) and (4640 2449) on Layer "Top Copper".
+    Error between Component Pad U2.9 (Net 'UC2_PE0/ESP_GPIO2') and Track (Net 'UC2_PE1/ESP_RESET'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4684 2433) and (4694 2433) on Layer "[Top]".
+    Error between Component Pad U2.10 and Component Pad U2.11 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4684 2433) and (4699 2433) on Layer "Top Copper".
+    Error between Component Pad U2.10 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4676 2467) and (4666 2476) on Layer "Top Copper".
+    Error between Component Pad U2.10 and Track (Net 'UC2_PE0/ESP_GPIO2'), Gap is 8 needs to be 10.
+Pad to Pad Error (P-P) between (4704 2433) and (4714 2433) on Layer "[Top]".
+    Error between Component Pad U2.11 (Net '3.3V') and Component Pad U2.12 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4704 2433) and (4719 2433) on Layer "Top Copper".
+    Error between Component Pad U2.11 (Net '3.3V') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4724 2433) and (4734 2433) on Layer "[Top]".
+    Error between Component Pad U2.12 (Net 'GND') and Component Pad U2.13, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4714 2449) and (4699 2449) on Layer "Top Copper".
+    Error between Component Pad U2.12 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4744 2433) and (4753 2433) on Layer "[Top]".
+    Error between Component Pad U2.13 and Component Pad U2.14, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4734 2449) and (4719 2449) on Layer "Top Copper".
+    Error between Component Pad U2.13 and Track (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4763 2433) and (4773 2433) on Layer "[Top]".
+    Error between Component Pad U2.14 and Component Pad U2.15, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4783 2433) and (4793 2433) on Layer "[Top]".
+    Error between Component Pad U2.15 and Component Pad U2.16 (Net 'UC2_PC4'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4783 2433) and (4798 2433) on Layer "Top Copper".
+    Error between Component Pad U2.15 and Track (Net 'UC2_PC4'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2532) and (4892 2542) on Layer "[Top]".
+    Error between Component Pad U2.17 and Component Pad U2.18, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2552) and (4892 2562) on Layer "[Top]".
+    Error between Component Pad U2.18 and Component Pad U2.19 (Net 'UC2_PA2/SDCARD_CLK'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2552) and (4876 2567) on Layer "Top Copper".
+    Error between Component Pad U2.18 and Track (Net 'UC2_PA2/SDCARD_CLK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2572) and (4892 2581) on Layer "[Top]".
+    Error between Component Pad U2.19 (Net 'UC2_PA2/SDCARD_CLK') and Component Pad U2.20 (Net 'UC2_PA3/SDCARD_CS'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2572) and (4876 2586) on Layer "Top Copper".
+    Error between Component Pad U2.19 (Net 'UC2_PA2/SDCARD_CLK') and Track (Net 'UC2_PA3/SDCARD_CS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2591) and (4892 2601) on Layer "[Top]".
+    Error between Component Pad U2.20 (Net 'UC2_PA3/SDCARD_CS') and Component Pad U2.21 (Net 'UC2_PA4/SDCARD_DO'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4892 2591) and (4892 2606) on Layer "Top Copper".
+    Error between Component Pad U2.20 (Net 'UC2_PA3/SDCARD_CS') and Track (Net 'UC2_PA4/SDCARD_DO'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4880 2581) and (4880 2570) on Layer "Top Copper".
+    Error between Component Pad U2.20 (Net 'UC2_PA3/SDCARD_CS') and Track (Net 'UC2_PA2/SDCARD_CLK'), Gap is 6 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2611) and (4892 2621) on Layer "[Top]".
+    Error between Component Pad U2.21 (Net 'UC2_PA4/SDCARD_DO') and Component Pad U2.22 (Net 'UC2_PA5/SDCARD_DI'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2611) and (4876 2625) on Layer "Top Copper".
+    Error between Component Pad U2.21 (Net 'UC2_PA4/SDCARD_DO') and Track (Net 'UC2_PA5/SDCARD_DI'), Gap is 9 needs to be 10.
+Track to Pad Error (T-P) between (4860 2601) and (4860 2586) on Layer "Top Copper".
+    Error between Component Pad U2.21 (Net 'UC2_PA4/SDCARD_DO') and Track (Net 'UC2_PA3/SDCARD_CS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2631) and (4892 2641) on Layer "[Top]".
+    Error between Component Pad U2.22 (Net 'UC2_PA5/SDCARD_DI') and Component Pad U2.23, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2621) and (4876 2606) on Layer "Top Copper".
+    Error between Component Pad U2.22 (Net 'UC2_PA5/SDCARD_DI') and Track (Net 'UC2_PA4/SDCARD_DO'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2650) and (4892 2660) on Layer "[Top]".
+    Error between Component Pad U2.23 and Component Pad U2.24, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2641) and (4876 2626) on Layer "Top Copper".
+    Error between Component Pad U2.23 and Track (Net 'UC2_PA5/SDCARD_DI'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2670) and (4892 2680) on Layer "[Top]".
+    Error between Component Pad U2.24 and Component Pad U2.25 (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4892 2670) and (4892 2685) on Layer "Top Copper".
+    Error between Component Pad U2.24 and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2690) and (4892 2700) on Layer "[Top]".
+    Error between Component Pad U2.25 (Net 'N$11') and Component Pad U2.26 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4892 2690) and (4892 2705) on Layer "Top Copper".
+    Error between Component Pad U2.25 (Net 'N$11') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2709) and (4892 2719) on Layer "[Top]".
+    Error between Component Pad U2.26 (Net '3.3V') and Component Pad U2.27 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4892 2709) and (4892 2724) on Layer "Top Copper".
+    Error between Component Pad U2.26 (Net '3.3V') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2700) and (4876 2685) on Layer "Top Copper".
+    Error between Component Pad U2.26 (Net '3.3V') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2729) and (4892 2739) on Layer "[Top]".
+    Error between Component Pad U2.27 (Net 'GND') and Component Pad U2.28 (Net 'UC2_PF0'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2719) and (4876 2705) on Layer "Top Copper".
+    Error between Component Pad U2.27 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2729) and (4876 2744) on Layer "Top Copper".
+    Error between Component Pad U2.27 (Net 'GND') and Track (Net 'UC2_PF0'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2749) and (4892 2759) on Layer "[Top]".
+    Error between Component Pad U2.28 (Net 'UC2_PF0') and Component Pad U2.29 (Net 'UC2_PF1'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4895 2740) and (4905 2730) on Layer "Top Copper".
+    Error between Component Pad U2.28 (Net 'UC2_PF0') and Track (Net 'GND'), Gap is 9 needs to be 10.
+Track to Pad Error (T-P) between (4876 2749) and (4876 2764) on Layer "Top Copper".
+    Error between Component Pad U2.28 (Net 'UC2_PF0') and Track (Net 'UC2_PF1'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2769) and (4892 2778) on Layer "[Top]".
+    Error between Component Pad U2.29 (Net 'UC2_PF1') and Component Pad U2.30 (Net 'UC2_PF2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4860 2759) and (4860 2744) on Layer "Top Copper".
+    Error between Component Pad U2.29 (Net 'UC2_PF1') and Track (Net 'UC2_PF0'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2769) and (4876 2783) on Layer "Top Copper".
+    Error between Component Pad U2.29 (Net 'UC2_PF1') and Track (Net 'UC2_PF2'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2788) and (4892 2798) on Layer "[Top]".
+    Error between Component Pad U2.30 (Net 'UC2_PF2') and Component Pad U2.31 (Net 'UC2_PF3'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4860 2778) and (4860 2764) on Layer "Top Copper".
+    Error between Component Pad U2.30 (Net 'UC2_PF2') and Track (Net 'UC2_PF1'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4876 2788) and (4876 2803) on Layer "Top Copper".
+    Error between Component Pad U2.30 (Net 'UC2_PF2') and Track (Net 'UC2_PF3'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4892 2808) and (4892 2818) on Layer "[Top]".
+    Error between Component Pad U2.31 (Net 'UC2_PF3') and Component Pad U2.32 (Net 'N$15'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4892 2808) and (4892 2823) on Layer "Top Copper".
+    Error between Component Pad U2.31 (Net 'UC2_PF3') and Track (Net 'N$15'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4860 2798) and (4860 2783) on Layer "Top Copper".
+    Error between Component Pad U2.31 (Net 'UC2_PF3') and Track (Net 'UC2_PF2'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4860 2818) and (4860 2803) on Layer "Top Copper".
+    Error between Component Pad U2.32 (Net 'N$15') and Track (Net 'UC2_PF3'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4793 2917) and (4783 2917) on Layer "[Top]".
+    Error between Component Pad U2.33 and Component Pad U2.34 (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4753 2917) and (4744 2917) on Layer "[Top]".
+    Error between Component Pad U2.35 (Net 'GND') and Component Pad U2.36, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4734 2917) and (4724 2917) on Layer "[Top]".
+    Error between Component Pad U2.36 and Component Pad U2.37 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4744 2901) and (4758 2901) on Layer "Top Copper".
+    Error between Component Pad U2.36 and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4734 2901) and (4719 2901) on Layer "Top Copper".
+    Error between Component Pad U2.36 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4734 2917) and (4719 2917) on Layer "Top Copper".
+    Error between Component Pad U2.36 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4714 2917) and (4704 2917) on Layer "[Top]".
+    Error between Component Pad U2.37 (Net '3.3V') and Component Pad U2.38 (Net 'N$14'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4714 2917) and (4699 2917) on Layer "Top Copper".
+    Error between Component Pad U2.37 (Net '3.3V') and Track (Net 'N$14'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4694 2917) and (4684 2917) on Layer "[Top]".
+    Error between Component Pad U2.38 (Net 'N$14') and Component Pad U2.39 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4694 2901) and (4680 2901) on Layer "Top Copper".
+    Error between Component Pad U2.38 (Net 'N$14') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4704 2885) and (4719 2885) on Layer "Top Copper".
+    Error between Component Pad U2.38 (Net 'N$14') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4704 2901) and (4719 2901) on Layer "Top Copper".
+    Error between Component Pad U2.38 (Net 'N$14') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4675 2917) and (4665 2917) on Layer "[Top]".
+    Error between Component Pad U2.39 (Net 'GND') and Component Pad U2.40 (Net 'N$13'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4675 2917) and (4660 2917) on Layer "Top Copper".
+    Error between Component Pad U2.39 (Net 'GND') and Track (Net 'N$13'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4684 2901) and (4699 2901) on Layer "Top Copper".
+    Error between Component Pad U2.39 (Net 'GND') and Track (Net 'N$14'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4655 2917) and (4645 2917) on Layer "[Top]".
+    Error between Component Pad U2.40 (Net 'N$13') and Component Pad U2.41 (Net 'N$12'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4665 2905) and (4676 2905) on Layer "Top Copper".
+    Error between Component Pad U2.40 (Net 'N$13') and Track (Net 'GND'), Gap is 6 needs to be 10.
+Track to Pad Error (T-P) between (4655 2917) and (4640 2917) on Layer "Top Copper".
+    Error between Component Pad U2.40 (Net 'N$13') and Track (Net 'N$12'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4635 2917) and (4625 2917) on Layer "[Top]".
+    Error between Component Pad U2.41 (Net 'N$12') and Component Pad U2.42 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4635 2901) and (4620 2901) on Layer "Top Copper".
+    Error between Component Pad U2.41 (Net 'N$12') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4645 2901) and (4660 2901) on Layer "Top Copper".
+    Error between Component Pad U2.41 (Net 'N$12') and Track (Net 'N$13'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4616 2917) and (4606 2917) on Layer "[Top]".
+    Error between Component Pad U2.42 (Net '3.3V') and Component Pad U2.43, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4625 2901) and (4640 2901) on Layer "Top Copper".
+    Error between Component Pad U2.42 (Net '3.3V') and Track (Net 'N$12'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4596 2917) and (4586 2917) on Layer "[Top]".
+    Error between Component Pad U2.43 and Component Pad U2.44, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4606 2885) and (4620 2885) on Layer "Top Copper".
+    Error between Component Pad U2.43 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4576 2917) and (4566 2917) on Layer "[Top]".
+    Error between Component Pad U2.44 and Component Pad U2.45, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4556 2917) and (4547 2917) on Layer "[Top]".
+    Error between Component Pad U2.45 and Component Pad U2.46, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4537 2917) and (4527 2917) on Layer "[Top]".
+    Error between Component Pad U2.46 and Component Pad U2.47, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4517 2917) and (4507 2917) on Layer "[Top]".
+    Error between Component Pad U2.47 and Component Pad U2.48, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2818) and (4408 2808) on Layer "[Top]".
+    Error between Component Pad U2.49 (Net 'UC2_PC3/TDO') and Component Pad U2.50 (Net 'UC2_PC2/TDI'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2818) and (4408 2803) on Layer "Top Copper".
+    Error between Component Pad U2.49 (Net 'UC2_PC3/TDO') and Track (Net 'UC2_PC2/TDI'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2798) and (4408 2788) on Layer "[Top]".
+    Error between Component Pad U2.50 (Net 'UC2_PC2/TDI') and Component Pad U2.51 (Net 'UC2_PC1/TMS'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2808) and (4424 2823) on Layer "Top Copper".
+    Error between Component Pad U2.50 (Net 'UC2_PC2/TDI') and Track (Net 'UC2_PC3/TDO'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2798) and (4408 2783) on Layer "Top Copper".
+    Error between Component Pad U2.50 (Net 'UC2_PC2/TDI') and Track (Net 'UC2_PC1/TMS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2778) and (4408 2769) on Layer "[Top]".
+    Error between Component Pad U2.51 (Net 'UC2_PC1/TMS') and Component Pad U2.52 (Net 'UC2_PC0/TCK'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2788) and (4424 2803) on Layer "Top Copper".
+    Error between Component Pad U2.51 (Net 'UC2_PC1/TMS') and Track (Net 'UC2_PC2/TDI'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2778) and (4408 2764) on Layer "Top Copper".
+    Error between Component Pad U2.51 (Net 'UC2_PC1/TMS') and Track (Net 'UC2_PC0/TCK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2759) and (4408 2749) on Layer "[Top]".
+    Error between Component Pad U2.52 (Net 'UC2_PC0/TCK') and Component Pad U2.53, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2769) and (4424 2783) on Layer "Top Copper".
+    Error between Component Pad U2.52 (Net 'UC2_PC0/TCK') and Track (Net 'UC2_PC1/TMS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2739) and (4408 2729) on Layer "[Top]".
+    Error between Component Pad U2.53 and Component Pad U2.54 (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2739) and (4424 2724) on Layer "Top Copper".
+    Error between Component Pad U2.53 and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2749) and (4424 2764) on Layer "Top Copper".
+    Error between Component Pad U2.53 and Track (Net 'UC2_PC0/TCK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2719) and (4408 2709) on Layer "[Top]".
+    Error between Component Pad U2.54 (Net '3.3V') and Component Pad U2.55 (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2719) and (4408 2705) on Layer "Top Copper".
+    Error between Component Pad U2.54 (Net '3.3V') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2700) and (4408 2690) on Layer "[Top]".
+    Error between Component Pad U2.55 (Net 'GND') and Component Pad U2.56 (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4440 2709) and (4440 2724) on Layer "Top Copper".
+    Error between Component Pad U2.55 (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2700) and (4408 2685) on Layer "Top Copper".
+    Error between Component Pad U2.55 (Net 'GND') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2700) and (4424 2685) on Layer "Top Copper".
+    Error between Component Pad U2.55 (Net 'GND') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2680) and (4408 2670) on Layer "[Top]".
+    Error between Component Pad U2.56 (Net 'N$11') and Component Pad U2.57 (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2690) and (4424 2705) on Layer "Top Copper".
+    Error between Component Pad U2.56 (Net 'N$11') and Track (Net 'GND'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2680) and (4408 2665) on Layer "Top Copper".
+    Error between Component Pad U2.56 (Net 'N$11') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2660) and (4408 2650) on Layer "[Top]".
+    Error between Component Pad U2.57 (Net 'UC12_PB5/FSS') and Component Pad U2.58 (Net 'UC12_PB4/CLK'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2670) and (4424 2685) on Layer "Top Copper".
+    Error between Component Pad U2.57 (Net 'UC12_PB5/FSS') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4440 2670) and (4440 2685) on Layer "Top Copper".
+    Error between Component Pad U2.57 (Net 'UC12_PB5/FSS') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2660) and (4424 2645) on Layer "Top Copper".
+    Error between Component Pad U2.57 (Net 'UC12_PB5/FSS') and Track (Net 'UC12_PB4/CLK'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2641) and (4408 2631) on Layer "[Top]".
+    Error between Component Pad U2.58 (Net 'UC12_PB4/CLK') and Component Pad U2.59 (Net 'UC2_PE4/ESP_TX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2641) and (4424 2626) on Layer "Top Copper".
+    Error between Component Pad U2.58 (Net 'UC12_PB4/CLK') and Track (Net 'UC2_PE4/ESP_TX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2650) and (4424 2665) on Layer "Top Copper".
+    Error between Component Pad U2.58 (Net 'UC12_PB4/CLK') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2621) and (4408 2611) on Layer "[Top]".
+    Error between Component Pad U2.59 (Net 'UC2_PE4/ESP_TX') and Component Pad U2.60 (Net 'UC2_PE5/ESP_RX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4408 2621) and (4408 2606) on Layer "Top Copper".
+    Error between Component Pad U2.59 (Net 'UC2_PE4/ESP_TX') and Track (Net 'UC2_PE5/ESP_RX'), Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4423 2631) and (4423 2645) on Layer "Top Copper".
+    Error between Component Pad U2.59 (Net 'UC2_PE4/ESP_TX') and Track (Net 'UC12_PB4/CLK'), Gap is 9 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2601) and (4408 2591) on Layer "[Top]".
+    Error between Component Pad U2.60 (Net 'UC2_PE5/ESP_RX') and Component Pad U2.61, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4440 2611) and (4440 2626) on Layer "Top Copper".
+    Error between Component Pad U2.60 (Net 'UC2_PE5/ESP_RX') and Track (Net 'UC2_PE4/ESP_TX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2581) and (4408 2572) on Layer "[Top]".
+    Error between Component Pad U2.61 and Component Pad U2.62, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4424 2591) and (4424 2606) on Layer "Top Copper".
+    Error between Component Pad U2.61 and Track (Net 'UC2_PE5/ESP_RX'), Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2562) and (4408 2552) on Layer "[Top]".
+    Error between Component Pad U2.62 and Component Pad U2.63, Gap is 10 needs to be 10.
+Pad to Pad Error (P-P) between (4408 2542) and (4408 2532) on Layer "[Top]".
+    Error between Component Pad U2.63 and Component Pad U2.64, Gap is 10 needs to be 10.
+Track to Pad Error (T-P) between (4773 3052) and (4781 3044) on Layer "Bottom Copper".
+    Error between Component Pad Y2.2 (Net 'N$13') and Track (Net 'GND'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3230 2876) and (3210 2876) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'OSC0'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3230 2876) and (3249 2876) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'RESET'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3230 2876) and (3249 2876) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'RESET'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3092 2424) and (3072 2424) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3092 2424) and (3072 2424) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3092 2424) and (3111 2424) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3150 2376) and (3150 2365) on Layer "Bottom Copper".
+    Error between Track (Net 'GND') and Via (Net 'UC1_PF4'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3269 2424) and (3249 2424) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4876 2724) and (4876 2705) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4876 2724) and (4876 2744) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'UC2_PF0'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4719 2449) and (4699 2449) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4542 2449) and (4522 2449) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4542 2449) and (4522 2449) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4545 2445) and (4561 2449) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'UC12_PB6/7/RX2TX'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4676 2905) and (4660 2905) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'N$13'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4668 3068) and (4661 3061) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Via (Net 'N$13'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4680 2901) and (4699 2901) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'N$14'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4424 2705) and (4424 2724) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net '3.3V'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4424 2705) and (4424 2685) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4424 2705) and (4424 2685) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4325 2726) and (4325 2715) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Via (Net 'N$11'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4281 2693) and (4265 2693) on Layer "Top Copper".
+    Error between Track (Net 'GND') and Track (Net 'UC2_PC0/TCK'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3225 2800) and (3225 2811) on Layer "Top Copper".
+    Error between Via (Net 'GND') and Track (Net '3.3V'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3318 2807) and (3311 2814) on Layer "Bottom Copper".
+    Error between Via (Net 'GND') and Track (Net 'UC12_PB4/CLK'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4533 2394) and (4540 2386) on Layer "Bottom Copper".
+    Error between Via (Net 'GND') and Track (Net 'UC2_PF2'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4550 2345) and (4550 2360) on Layer "Top Copper".
+    Error between Via (Net 'GND') and Track (Net 'UC2_PF4'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4775 3000) and (4775 2989) on Layer "Top Copper".
+    Error between Via (Net 'GND') and Track (Net '3.3V'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4775 2945) and (4775 2959) on Layer "Bottom Copper".
+    Error between Via (Net 'GND') and Track (Net 'N$11'), Gap is 9 needs to be 10.
+Track to Track Error (T-T) between (3170 2876) and (3190 2876) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'OSC1'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3269 2877) and (3250 2877) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'RESET'), Gap is 9 needs to be 10.
+Track to Track Error (T-T) between (3269 2919) and (3256 2931) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'RESET'), Gap is 8 needs to be 10.
+Track to Via Error (T-V) between (3350 2924) and (3350 2935) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Via (Net 'RESET'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3426 2680) and (3426 2660) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'N$2'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3072 2424) and (3052 2424) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'UC12_PB6/7/RX2TX'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4620 2901) and (4640 2901) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'N$12'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4719 2901) and (4699 2901) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'N$14'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4522 2449) and (4502 2449) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4876 2705) and (4876 2685) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'N$11'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4719 2901) and (4699 2901) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'N$14'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3125 2500) and (3125 2489) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Via (Net 'UC12_PB6/7/TX2RX'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3072 2424) and (3052 2424) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'UC12_PB6/7/RX2TX'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4522 2449) and (4502 2449) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4633 2333) and (4641 2326) on Layer "Top Copper".
+    Error between Track (Net '3.3V') and Via (Net 'UC2_PE1/ESP_RESET'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4518 2381) and (4510 2390) on Layer "Bottom Copper".
+    Error between Via (Net '3.3V') and Track (Net 'UC2_PF2'), Gap is 7 needs to be 10.
+Track to Track Error (T-T) between (2974 2660) and (2974 2640) on Layer "Top Copper".
+    Error between Track (Net 'N$2') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3140 2660) and (3140 2645) on Layer "Top Copper".
+    Error between Track (Net 'N$2') and Via (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3324 2586) and (3313 2586) on Layer "Bottom Copper".
+    Error between Via (Net 'N$2') and Track (Net 'UC1_PF3'), Gap is 6 needs to be 10.
+Via to Via Error (V-V) between (3298 2571) and (3298 2565) on Layer "[All]".
+    Error between Via (Net 'N$2') and Via (Net 'UC12_PB6/7/RX2TX'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3190 2876) and (3210 2876) on Layer "Top Copper".
+    Error between Track (Net 'OSC1') and Track (Net 'OSC0'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (2974 2798) and (2974 2778) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PC3/TDO') and Track (Net 'UC1_PC2/TDI'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (2650 2725) and (2639 2725) on Layer "Bottom Copper".
+    Error between Track (Net 'UC1_PC3/TDO') and Via (Net 'UC1_PC2/TDI'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (2713 2413) and (2725 2425) on Layer "Bottom Copper".
+    Error between Track (Net 'UC1_PC3/TDO') and Track (Net 'UC1_PC1/TMS'), Gap is 8 needs to be 10.
+Track to Track Error (T-T) between (3426 2798) and (3426 2778) on Layer "Top Copper".
+    Error between Track (Net 'WAKE') and Track (Net 'UC1_PF3'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4424 2685) and (4424 2665) on Layer "Top Copper".
+    Error between Track (Net 'N$11') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4370 2685) and (4370 2674) on Layer "Top Copper".
+    Error between Track (Net 'N$11') and Via (Net 'UC12_PB5/FSS'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4424 2685) and (4424 2665) on Layer "Top Copper".
+    Error between Track (Net 'N$11') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4345 2680) and (4336 2689) on Layer "Bottom Copper".
+    Error between Via (Net 'N$11') and Track (Net 'UC12_PB4/CLK'), Gap is 8 needs to be 10.
+Track to Via Error (T-V) between (4550 2825) and (4558 2833) on Layer "Bottom Copper".
+    Error between Via (Net 'N$11') and Track (Net 'UC2_PA3/SDCARD_CS'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (5135 2604) and (5135 2615) on Layer "Top Copper".
+    Error between Via (Net 'N$11') and Track (Net 'UC2_PA4/SDCARD_DO'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4640 2901) and (4660 2901) on Layer "Top Copper".
+    Error between Track (Net 'N$12') and Track (Net 'N$13'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4876 2823) and (4876 2803) on Layer "Top Copper".
+    Error between Track (Net 'N$15') and Track (Net 'UC2_PF3'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (2974 2778) and (2974 2758) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PC2/TDI') and Track (Net 'UC1_PC1/TMS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (2913 2388) and (2905 2380) on Layer "Bottom Copper".
+    Error between Via (Net 'UC1_PC2/TDI') and Track (Net 'UC1_PC1/TMS'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (2974 2758) and (2974 2739) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PC1/TMS') and Track (Net 'UC1_PC0/TCK'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4327 2823) and (4327 2803) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PC3/TDO') and Track (Net 'UC2_PC2/TDI'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4424 2803) and (4424 2783) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PC2/TDI') and Track (Net 'UC2_PC1/TMS'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4309 2783) and (4309 2764) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PC1/TMS') and Track (Net 'UC2_PC0/TCK'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (3494 2719) and (3494 2739) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PF0') and Track (Net 'UC1_PF1'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3543 2707) and (3536 2714) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PF0') and Via (Net 'UC1_PF1'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3550 2525) and (3539 2525) on Layer "Bottom Copper".
+    Error between Track (Net 'UC1_PF1') and Via (Net 'UC12_PB6/7/RX2TX'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3426 2739) and (3426 2758) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PF1') and Track (Net 'UC1_PF2'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3350 2550) and (3361 2550) on Layer "Bottom Copper".
+    Error between Track (Net 'UC1_PF2') and Via (Net 'UC12_PB6/7/RX2TX'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (3424 2758) and (3424 2775) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PF2') and Track (Net 'UC1_PF3'), Gap is 7 needs to be 10.
+Track to Via Error (T-V) between (3324 2750) and (3335 2750) on Layer "Bottom Copper".
+    Error between Via (Net 'UC1_PF2') and Track (Net 'UC1_PF3'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3350 2776) and (3350 2765) on Layer "Top Copper".
+    Error between Via (Net 'UC1_PF2') and Track (Net 'UC1_PF3'), Gap is 6 needs to be 10.
+Via to Via Error (V-V) between (3339 2761) and (3335 2765) on Layer "[All]".
+    Error between Via (Net 'UC1_PF2') and Via (Net 'UC1_PF3'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3324 2475) and (3313 2475) on Layer "Bottom Copper".
+    Error between Track (Net 'UC1_PF3') and Via (Net 'UC12_PB6/7/TX2RX'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3324 2550) and (3313 2550) on Layer "Bottom Copper".
+    Error between Track (Net 'UC1_PF3') and Via (Net 'UC12_PB6/7/RX2TX'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3311 2799) and (3317 2788) on Layer "Bottom Copper".
+    Error between Via (Net 'UC1_PF3') and Track (Net 'UC12_PB4/CLK'), Gap is 8 needs to be 10.
+Track to Track Error (T-T) between (3131 2424) and (3111 2424) on Layer "Top Copper".
+    Error between Track (Net 'UC1_PF4') and Track (Net 'UC12_PB6/7/TX2RX'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (3150 2324) and (3150 2335) on Layer "Top Copper".
+    Error between Via (Net 'UC1_PF4') and Track (Net 'UC1_PC4'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4876 2606) and (4876 2625) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PA4/SDCARD_DO') and Track (Net 'UC2_PA5/SDCARD_DI'), Gap is 9 needs to be 10.
+Track to Track Error (T-T) between (4876 2606) and (4876 2586) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PA4/SDCARD_DO') and Track (Net 'UC2_PA3/SDCARD_CS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (5180 2630) and (5188 2622) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PA4/SDCARD_DO') and Track (Net 'UC2_PE4/ESP_TX'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4725 2625) and (4725 2636) on Layer "Bottom Copper".
+    Error between Track (Net 'UC2_PA5/SDCARD_DI') and Via (Net 'UC2_PA3/SDCARD_CS'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4025 3275) and (4036 3275) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PA5/SDCARD_DI') and Track (Net 'UC2_PA2/SDCARD_CLK'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4880 2570) and (4876 2586) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PA2/SDCARD_CLK') and Track (Net 'UC2_PA3/SDCARD_CS'), Gap is 7 needs to be 10.
+Track to Track Error (T-T) between (4424 2606) and (4424 2626) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PE5/ESP_RX') and Track (Net 'UC2_PE4/ESP_TX'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4660 2449) and (4640 2449) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PE0/ESP_GPIO2') and Track (Net 'UC2_PE1/ESP_RESET'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4696 2506) and (4688 2514) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PE0/ESP_GPIO2') and Via (Net 'UC2_PF0'), Gap is 7 needs to be 10.
+Track to Track Error (T-T) between (4640 2449) and (4620 2449) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PE1/ESP_RESET') and Track (Net 'UC2_PE2/MIC_OUT'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4600 2375) and (4611 2375) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PE1/ESP_RESET') and Track (Net 'UC2_PF1'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4678 2315) and (4667 2315) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PE1/ESP_RESET') and Track (Net 'UC2_PF0'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4424 2626) and (4423 2645) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PE4/ESP_TX') and Track (Net 'UC12_PB4/CLK'), Gap is 9 needs to be 10.
+Track to Via Error (T-V) between (4565 2705) and (4557 2713) on Layer "Top Copper".
+    Error between Via (Net 'UC2_PE4/ESP_TX') and Track (Net 'UC2_PE2/MIC_OUT'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4655 2795) and (4647 2803) on Layer "Top Copper".
+    Error between Via (Net 'UC2_PE4/ESP_TX') and Track (Net 'UC2_PE2/MIC_OUT'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (2974 2620) and (2974 2640) on Layer "Top Copper".
+    Error between Track (Net 'UC12_PB4/CLK') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4054 2959) and (4054 2975) on Layer "Bottom Copper".
+    Error between Track (Net 'UC12_PB4/CLK') and Track (Net 'UC12_PB5/FSS'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (3158 2612) and (3151 2619) on Layer "Bottom Copper".
+    Error between Track (Net 'UC12_PB4/CLK') and Via (Net 'UC12_PB5/FSS'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4424 2645) and (4424 2665) on Layer "Top Copper".
+    Error between Track (Net 'UC12_PB4/CLK') and Track (Net 'UC12_PB5/FSS'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4388 2641) and (4381 2648) on Layer "Top Copper".
+    Error between Track (Net 'UC12_PB4/CLK') and Via (Net 'UC12_PB5/FSS'), Gap is 6 needs to be 10.
+Via to Via Error (V-V) between (3129 2610) and (3133 2617) on Layer "[All]".
+    Error between Via (Net 'UC12_PB4/CLK') and Via (Net 'UC12_PB5/FSS'), Gap is 8 needs to be 10.
+Track to Via Error (T-V) between (4400 2400) and (4400 2411) on Layer "Top Copper".
+    Error between Track (Net 'UC12_PB6/7/TX2RX') and Via (Net 'UC12_PB6/7/RX2TX'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4561 2449) and (4581 2449) on Layer "Top Copper".
+    Error between Track (Net 'UC12_PB6/7/RX2TX') and Track (Net 'UC2_PF4'), Gap is 10 needs to be 10.
+Track to Track Error (T-T) between (4678 2653) and (4665 2665) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PF0') and Track (Net 'UC2_PF1'), Gap is 8 needs to be 10.
+Track to Via Error (T-V) between (4678 2575) and (4667 2575) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PF0') and Via (Net 'UC2_PF1'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4652 2525) and (4663 2525) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PF0') and Track (Net 'UC2_PF1'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4764 2764) and (4751 2776) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PF1') and Track (Net 'UC2_PF2'), Gap is 8 needs to be 10.
+Track to Via Error (T-V) between (4652 2625) and (4641 2625) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PF1') and Via (Net 'UC2_PF2'), Gap is 6 needs to be 10.
+Track to Via Error (T-V) between (4626 2575) and (4637 2575) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PF1') and Track (Net 'UC2_PF2'), Gap is 6 needs to be 10.
+Track to Track Error (T-T) between (4758 2783) and (4758 2803) on Layer "Top Copper".
+    Error between Track (Net 'UC2_PF2') and Track (Net 'UC2_PF3'), Gap is 10 needs to be 10.
+Track to Via Error (T-V) between (4600 2625) and (4611 2625) on Layer "Bottom Copper".
+    Error between Via (Net 'UC2_PF2') and Track (Net 'UC2_PF3'), Gap is 6 needs to be 10.
+
+Number of errors found : 605
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Min Drill Hole Size  Yes
+Min Track Width      Yes
+Min Annular Ring     Yes
+Copper Text In Board Yes
+Mirrored Text        No
+Routing Areas        No
+Drill Breakout       No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

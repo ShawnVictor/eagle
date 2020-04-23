@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2019-01-14T12:18:35Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Shawn Victor <shawnfvictor@gmail.com>*%
+%TJ.B_ID,Emech_DevBoard_v2.0*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,174.077709*%
+%TJ.B_Size_Y,113.094291*%
+M02*

@@ -1,0 +1,17 @@
+int motor_pin = ?; // You need to fill this in
+
+void setup()
+{
+	Serial.begin(9600); // This will allow you to use the Serial Monitor to print stuff to
+	pinMode(?, ?); //You will need to fill this in for the Motor
+	pinMode(?, ?); //You will need to fill this in for the Potentiometer
+	...	       //You may need to add more stuff to send text to the display
+}
+
+void loop()
+{
+	int voltage_code = ...; //You need to call a function that will give us the digital voltage code from the ADC pin
+	...
+	...	//More code... Try to look at File>Examples>Servo>Knob you may need to add more stuff in setup too....
+	...	//Send a simple text to the LCD indicating the voltage code and what angle value you are sending to the servo....
+}
