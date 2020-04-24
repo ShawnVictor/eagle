@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.7.1*%
+%TF.CreationDate,2018-05-15T06:37:00Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Shawn Victor <shawnfvictor@gmail.com>*%
+%TJ.B_ID,Stratologger sl100 Board*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,91.440000*%
+%TJ.B_Size_Y,91.440000*%
+M02*

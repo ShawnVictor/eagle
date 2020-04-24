@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.7.1*%
+%TF.CreationDate,2018-04-21T20:58:02Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Shawn Victor <shawnfvictor@gmail.com>*%
+%TJ.B_ID,LED_Cube_Board*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,279.070000*%
+%TJ.B_Size_Y,203.190000*%
+M02*
