@@ -5656,12 +5656,50 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <text x="-1.09" y="-1.03" size="0.5" layer="27" ratio="10">&gt;VALUE</text>
 <text x="-1.17" y="0.6" size="0.5" layer="25" ratio="10">&gt;NAME</text>
 </package>
+<package name="RES_0402" urn="urn:adsk.eagle:footprint:10872880/1" library_version="1">
+<description>Resistor, Chip; 1.00 mm L X 0.50 mm W X 0.35 mm H body&lt;p&gt;&lt;i&gt;PCB Libraries Packages&lt;/i&gt;</description>
+<smd name="1" x="-0.46" y="0" dx="0.58" dy="0.58" layer="1" roundness="52" rot="R180"/>
+<smd name="2" x="0.46" y="0" dx="0.58" dy="0.58" layer="1" roundness="52"/>
+<wire x1="-0.25" y1="0.25" x2="-0.25" y2="-0.25" width="0.025" layer="51"/>
+<wire x1="-0.25" y1="-0.25" x2="-0.5" y2="-0.25" width="0.025" layer="51"/>
+<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.025" layer="51"/>
+<wire x1="-0.5" y1="0.25" x2="-0.25" y2="0.25" width="0.025" layer="51"/>
+<wire x1="0.25" y1="-0.25" x2="0.25" y2="0.25" width="0.025" layer="51"/>
+<wire x1="0.25" y1="0.25" x2="0.5" y2="0.25" width="0.025" layer="51"/>
+<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.025" layer="51"/>
+<wire x1="0.5" y1="-0.25" x2="0.25" y2="-0.25" width="0.025" layer="51"/>
+<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.025" layer="51"/>
+<wire x1="-0.5" y1="0.25" x2="0.5" y2="0.25" width="0.025" layer="51"/>
+<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.025" layer="51"/>
+<wire x1="0.5" y1="-0.25" x2="-0.5" y2="-0.25" width="0.025" layer="51"/>
+<wire x1="-0.53" y1="-0.28" x2="-0.53" y2="0.28" width="0.12" layer="51"/>
+<wire x1="-0.53" y1="0.28" x2="0.53" y2="0.28" width="0.12" layer="51"/>
+<wire x1="0.53" y1="0.28" x2="0.53" y2="-0.28" width="0.12" layer="51"/>
+<wire x1="0.53" y1="-0.28" x2="-0.53" y2="-0.28" width="0.12" layer="51"/>
+<wire x1="-0.9" y1="-0.44" x2="-0.9" y2="0.44" width="0.05" layer="39"/>
+<wire x1="-0.9" y1="0.44" x2="0.9" y2="0.44" width="0.05" layer="39"/>
+<wire x1="0.9" y1="0.44" x2="0.9" y2="-0.44" width="0.05" layer="39"/>
+<wire x1="0.9" y1="-0.44" x2="-0.9" y2="-0.44" width="0.05" layer="39"/>
+<wire x1="0.22" y1="0" x2="-0.22" y2="0" width="0.05" layer="39"/>
+<wire x1="0" y1="0.22" x2="0" y2="-0.22" width="0.05" layer="39"/>
+<wire x1="-0.11" y1="0.28" x2="0.09" y2="0.28" width="0.127" layer="21"/>
+<wire x1="-0.1" y1="-0.28" x2="0.1" y2="-0.28" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="0.165" width="0.05" layer="39"/>
+<text x="-1.27" y="-1.016" size="0.5" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-1.27" y="0.508" size="0.5" layer="25" ratio="10">&gt;NAME</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="CAP_0402" urn="urn:adsk.eagle:package:10872910/3" type="model" library_version="1">
 <description>Resistor, Chip; 1.00 mm L X 0.50 mm W X 0.50 mm H body&lt;p&gt;&lt;i&gt;PCB Libraries Packages&lt;/i&gt;</description>
 <packageinstances>
 <packageinstance name="CAP_0402"/>
+</packageinstances>
+</package3d>
+<package3d name="RES_0402" urn="urn:adsk.eagle:package:10872901/3" type="model" library_version="1">
+<description>Resistor, Chip; 1.00 mm L X 0.50 mm W X 0.35 mm H body&lt;p&gt;&lt;i&gt;PCB Libraries Packages&lt;/i&gt;</description>
+<packageinstances>
+<packageinstance name="RES_0402"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -5675,6 +5713,21 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <rectangle x1="-2.032" y1="-1.016" x2="2.032" y2="-0.508" layer="94"/>
 <pin name="1" x="0" y="2.54" visible="off" length="short" direction="pas" rot="R270"/>
 <pin name="2" x="0" y="-5.08" visible="off" length="short" direction="pas" rot="R90"/>
+</symbol>
+<symbol name="R-US" urn="urn:adsk.eagle:symbol:10872894/1" library_version="1">
+<wire x1="-2.54" y1="0" x2="-2.159" y2="1.016" width="0.2032" layer="94"/>
+<wire x1="-2.159" y1="1.016" x2="-1.524" y2="-1.016" width="0.2032" layer="94"/>
+<wire x1="-1.524" y1="-1.016" x2="-0.889" y2="1.016" width="0.2032" layer="94"/>
+<wire x1="-0.889" y1="1.016" x2="-0.254" y2="-1.016" width="0.2032" layer="94"/>
+<wire x1="-0.254" y1="-1.016" x2="0.381" y2="1.016" width="0.2032" layer="94"/>
+<wire x1="0.381" y1="1.016" x2="1.016" y2="-1.016" width="0.2032" layer="94"/>
+<wire x1="1.016" y1="-1.016" x2="1.651" y2="1.016" width="0.2032" layer="94"/>
+<wire x1="1.651" y1="1.016" x2="2.286" y2="-1.016" width="0.2032" layer="94"/>
+<wire x1="2.286" y1="-1.016" x2="2.54" y2="0" width="0.2032" layer="94"/>
+<text x="-3.81" y="1.4986" size="1.778" layer="95">&gt;NAME</text>
+<text x="-3.81" y="-3.302" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" rot="R180"/>
+<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -5728,6 +5781,34 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <attribute name="DIGIKEY_PART_NUMBER" value="311-1014-2-ND" constant="no"/>
 <attribute name="MANUFACTURER" value="Yageo" constant="no"/>
 <attribute name="MPN" value="CC0402JRNPO9BN100" constant="no"/>
+<attribute name="PACKAGE" value="SMD 0402" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="RC0402JR-070RL" urn="urn:adsk.eagle:component:10872918/10" prefix="R" library_version="1">
+<description>&lt;h3&gt; RES SMD 0 OHM JUMPER 1/16W 0402 &lt;/h3&gt;
+&lt;BR&gt;
+&lt;a href="http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_10.pdf"&gt; Manufacturer's datasheet&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="R-US" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="RES_0402">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:10872901/3"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="CREATED_BY" value="PCBLayout.com" constant="no"/>
+<attribute name="DIGIKEY_PART_NUMBER" value="311-0.0JRTR-ND" constant="no"/>
+<attribute name="MANUFACTURER" value="Yageo" constant="no"/>
+<attribute name="MPN" value="RC0402JR-070RL" constant="no"/>
 <attribute name="PACKAGE" value="SMD 0402" constant="no"/>
 </technology>
 </technologies>
@@ -5795,7 +5876,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <part name="L3" library="appfruits" deviceset="INDUCTOR" device="-BK2125HM601-T" value="600 Ohm/100 Mhz"/>
 <part name="L4" library="appfruits" deviceset="INDUCTOR" device="-BK2125HM601-T" value="600 Ohm/100 Mhz"/>
 <part name="U$19" library="microbuilder" deviceset="GND" device=""/>
-<part name="R16" library="appfruits" deviceset="RESISTOR" device="-470" value="470"/>
+<part name="R16" library="Resistor_Capacitor" library_urn="urn:adsk.eagle:library:15122775" deviceset="RC0402JR-070RL" device="" package3d_urn="urn:adsk.eagle:package:10872901/3" value="470"/>
 <part name="U$20" library="microbuilder" deviceset="GND" device=""/>
 <part name="Y2" library="appfruits" deviceset="CRYSTAL/SMD-5X3-GND" device="16MHZ/8PF" value="16Mhz/8pF">
 <attribute name="MF" value="ECS"/>

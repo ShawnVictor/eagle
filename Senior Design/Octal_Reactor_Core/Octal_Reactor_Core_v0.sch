@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.1">
+<eagle version="8.7.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6188,6 +6188,7 @@ to USB-Connector!</text>
 <text x="350.52" y="-12.7" size="1.778" layer="95">3.7V
 1200mAh
 503365 Li-ion</text>
+<text x="254" y="180.34" size="2.54" layer="94">INERTIAL MEASUREMENT UNIT</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="401.32" y="139.7"/>

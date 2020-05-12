@@ -5791,7 +5791,7 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 </part>
 <part name="U$14" library="microbuilder" deviceset="GND" device=""/>
 <part name="U$18" library="microbuilder" deviceset="GND" device=""/>
-<part name="C14" library="appfruits" deviceset="CAPACITOR" device="-0.1UF" value="0.1uF"/>
+<part name="C14" library="Resistor_Capacitor" library_urn="urn:adsk.eagle:library:15122775" deviceset="CC0402JRNPO9BN100" device="" package3d_urn="urn:adsk.eagle:package:10872910/3" value="0.1uF"/>
 <part name="L3" library="appfruits" deviceset="INDUCTOR" device="-BK2125HM601-T" value="600 Ohm/100 Mhz"/>
 <part name="L4" library="appfruits" deviceset="INDUCTOR" device="-BK2125HM601-T" value="600 Ohm/100 Mhz"/>
 <part name="U$19" library="microbuilder" deviceset="GND" device=""/>
@@ -6134,7 +6134,7 @@ to USB-Connector!</text>
 <segment>
 <pinref part="C14" gate="G$1" pin="2"/>
 <pinref part="U$18" gate="G$1" pin="GND"/>
-<wire x1="91.44" y1="15.24" x2="91.44" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="12.7" x2="91.44" y2="7.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U2" gate="G$1" pin="VSS"/>
@@ -6668,7 +6668,7 @@ to USB-Connector!</text>
 <pinref part="U3" gate="G$1" pin="LDOCAP"/>
 <pinref part="C14" gate="G$1" pin="1"/>
 <wire x1="83.82" y1="55.88" x2="91.44" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="91.44" y1="55.88" x2="91.44" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="91.44" y1="55.88" x2="91.44" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="USB_D_P" class="1">
