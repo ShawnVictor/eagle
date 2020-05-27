@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.7.1">
+<eagle version="9.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -112,13 +112,34 @@
 <layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
 <layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
 <layer number="133" name="bottom_silk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="134" name="mbFinish" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="135" name="mtGlue" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="136" name="mbGlue" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="137" name="mtTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="138" name="mbTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="139" name="mtKeepout" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="140" name="mbKeepout" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="141" name="mtRestrict" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="142" name="mbRestrict" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="143" name="mvRestrict" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="145" name="mHoles" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="146" name="mMilling" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="147" name="mMeasures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="148" name="mDocument" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="149" name="mReference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
 <layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
 <layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
 <layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
+<layer number="191" name="mNets" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="192" name="mBusses" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="193" name="mPins" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="194" name="mSymbols" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="195" name="mNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="196" name="mValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
 <layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
 <layer number="201" name="201bmp" color="7" fill="1" visible="no" active="yes"/>
@@ -5935,6 +5956,135 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 </deviceset>
 </devicesets>
 </library>
+<library name="Particle">
+<packages>
+<package name="PLCC4-2MM-RGB">
+<description>PLCC4 2MM RGB LED package</description>
+<smd name="BLUE" x="-0.75" y="-0.55" dx="1" dy="0.8" layer="1"/>
+<smd name="GREEN" x="-0.75" y="0.55" dx="1" dy="0.8" layer="1"/>
+<smd name="RED" x="0.75" y="0.55" dx="1" dy="0.8" layer="1"/>
+<smd name="CA" x="0.75" y="-0.55" dx="1" dy="0.8" layer="1"/>
+<wire x1="-1" y1="-1" x2="-1" y2="1" width="0.05" layer="51"/>
+<wire x1="-1" y1="1" x2="1" y2="1" width="0.05" layer="51"/>
+<wire x1="1" y1="1" x2="1" y2="-0.6" width="0.05" layer="51"/>
+<wire x1="1" y1="-0.6" x2="1" y2="-1" width="0.05" layer="51"/>
+<wire x1="1" y1="-1" x2="0.6" y2="-1" width="0.05" layer="51"/>
+<wire x1="0.6" y1="-1" x2="-1" y2="-1" width="0.05" layer="51"/>
+<wire x1="0" y1="0.8" x2="-0.8" y2="0.7" width="0.05" layer="51"/>
+<wire x1="-0.8" y1="0.7" x2="-0.9" y2="0" width="0.05" layer="51"/>
+<wire x1="-0.9" y1="0" x2="-0.8" y2="-0.7" width="0.05" layer="51"/>
+<wire x1="-0.8" y1="-0.7" x2="0" y2="-0.8" width="0.05" layer="51"/>
+<wire x1="0" y1="-0.8" x2="0.8" y2="-0.7" width="0.05" layer="51"/>
+<wire x1="0.8" y1="-0.7" x2="0.9" y2="0" width="0.05" layer="51"/>
+<wire x1="0.9" y1="0" x2="0.8" y2="0.7" width="0.05" layer="51"/>
+<wire x1="0.8" y1="0.7" x2="0" y2="0.8" width="0.05" layer="51"/>
+<wire x1="1" y1="-0.6" x2="0.6" y2="-1" width="0.05" layer="51"/>
+<circle x="0.9144" y="-1.2954" radius="0.0254" width="0.2032" layer="21"/>
+<text x="0.1016" y="-0.635" size="0.381" layer="51" font="vector" ratio="10">CA</text>
+<text x="0.3048" y="0.254" size="0.381" layer="51" font="vector" ratio="10">R</text>
+<text x="-0.7112" y="-0.635" size="0.381" layer="51" font="vector" ratio="10">B</text>
+<text x="-0.7112" y="0.254" size="0.381" layer="51" font="vector" ratio="10">G</text>
+<wire x1="0.5842" y1="-1.2446" x2="-0.9398" y2="-1.2446" width="0.127" layer="21"/>
+<wire x1="-0.9398" y1="1.2446" x2="0.9398" y2="1.2446" width="0.127" layer="21"/>
+<rectangle x1="-1.1176" y1="0.254" x2="-1.016" y2="0.8128" layer="51"/>
+<rectangle x1="1.016" y1="0.254" x2="1.1176" y2="0.8128" layer="51"/>
+<rectangle x1="-1.1176" y1="-0.8128" x2="-1.016" y2="-0.254" layer="51"/>
+<rectangle x1="1.016" y1="-0.8128" x2="1.1176" y2="-0.254" layer="51"/>
+</package>
+</packages>
+<symbols>
+<symbol name="LED-RGB2">
+<wire x1="6.35" y1="-0.762" x2="5.08" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-2.794" x2="3.81" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="6.35" y1="-2.794" x2="5.08" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-2.794" x2="3.81" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="6.35" y1="-0.762" x2="5.08" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-0.762" x2="3.81" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="3.048" y1="-1.016" x2="2.159" y2="-1.905" width="0.1524" layer="94"/>
+<wire x1="3.81" y1="-1.778" x2="2.921" y2="-2.667" width="0.1524" layer="94"/>
+<wire x1="1.27" y1="-0.762" x2="0" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.794" x2="-1.27" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-2.794" x2="0" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.794" x2="-1.27" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-0.762" x2="0" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="0" y1="-0.762" x2="-1.27" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-2.032" y1="-1.016" x2="-2.921" y2="-1.905" width="0.1524" layer="94"/>
+<wire x1="-1.27" y1="-1.778" x2="-2.159" y2="-2.667" width="0.1524" layer="94"/>
+<wire x1="-3.81" y1="-0.762" x2="-5.08" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="-2.794" x2="-6.35" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="-2.794" x2="-5.08" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="-2.794" x2="-6.35" y2="-2.794" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="-0.762" x2="-5.08" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="-0.762" x2="-6.35" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-7.112" y1="-1.016" x2="-8.001" y2="-1.905" width="0.1524" layer="94"/>
+<wire x1="-6.35" y1="-1.778" x2="-7.239" y2="-2.667" width="0.1524" layer="94"/>
+<wire x1="-5.08" y1="0" x2="0" y2="0" width="0.1524" layer="94"/>
+<circle x="0" y="0" radius="0.1796" width="0.254" layer="94"/>
+<circle x="0" y="0" radius="0.1796" width="0.254" layer="94"/>
+<text x="2.54" y="0.762" size="1.778" layer="95">&gt;NAME</text>
+<text x="2.54" y="2.921" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="4" x="5.08" y="-5.08" visible="pad" length="short" direction="pas" rot="R90"/>
+<pin name="3" x="0" y="-5.08" visible="pad" length="short" direction="pas" rot="R90"/>
+<pin name="2" x="-5.08" y="-5.08" visible="pad" length="short" direction="pas" rot="R90"/>
+<pin name="1" x="0" y="2.54" visible="pad" length="short" direction="pas" rot="R270"/>
+<polygon width="0.1524" layer="94">
+<vertex x="2.032" y="-1.524"/>
+<vertex x="1.778" y="-2.286"/>
+<vertex x="2.54" y="-2.032"/>
+</polygon>
+<polygon width="0.1524" layer="94">
+<vertex x="2.794" y="-2.286"/>
+<vertex x="2.54" y="-3.048"/>
+<vertex x="3.302" y="-2.794"/>
+</polygon>
+<polygon width="0.1524" layer="94">
+<vertex x="-3.048" y="-1.524"/>
+<vertex x="-3.302" y="-2.286"/>
+<vertex x="-2.54" y="-2.032"/>
+</polygon>
+<polygon width="0.1524" layer="94">
+<vertex x="-2.286" y="-2.286"/>
+<vertex x="-2.54" y="-3.048"/>
+<vertex x="-1.778" y="-2.794"/>
+</polygon>
+<polygon width="0.1524" layer="94">
+<vertex x="-8.128" y="-1.524"/>
+<vertex x="-8.382" y="-2.286"/>
+<vertex x="-7.62" y="-2.032"/>
+</polygon>
+<polygon width="0.1524" layer="94">
+<vertex x="-7.366" y="-2.286"/>
+<vertex x="-7.62" y="-3.048"/>
+<vertex x="-6.858" y="-2.794"/>
+</polygon>
+<wire x1="0" y1="0" x2="5.08" y2="0" width="0.1524" layer="94"/>
+<wire x1="-5.08" y1="0" x2="-5.08" y2="-0.762" width="0.1524" layer="94"/>
+<wire x1="0" y1="0" x2="0" y2="-0.762" width="0.1524" layer="94"/>
+<wire x1="5.08" y1="0" x2="5.08" y2="-0.762" width="0.1524" layer="94"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="RGB-LED-CLMVB-FKA">
+<description>CREE CLMVB-FKA RGB LED 2mm x 2mm</description>
+<gates>
+<gate name="G$1" symbol="LED-RGB2" x="0" y="0"/>
+</gates>
+<devices>
+<device name="RGB" package="PLCC4-2MM-RGB">
+<connects>
+<connect gate="G$1" pin="1" pad="CA"/>
+<connect gate="G$1" pin="2" pad="BLUE"/>
+<connect gate="G$1" pin="3" pad="GREEN"/>
+<connect gate="G$1" pin="4" pad="RED"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -6026,6 +6176,8 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <part name="R7" library="microbuilder" deviceset="RESISTOR" device="0603" value="10k"/>
 <part name="J6" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_02" device="" package3d_urn="urn:adsk.eagle:package:38039/1"/>
 <part name="J7" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_06X2" device="PTH_FEMALE" package3d_urn="urn:adsk.eagle:package:38277/1" value="2X6 FEMALE"/>
+<part name="J4" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_02" device="" package3d_urn="urn:adsk.eagle:package:38039/1"/>
+<part name="U$36" library="Particle" deviceset="RGB-LED-CLMVB-FKA" device="RGB"/>
 </parts>
 <sheets>
 <sheet>
@@ -6205,6 +6357,8 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 </instance>
 <instance part="J6" gate="G$1" x="337.82" y="7.62" rot="R180"/>
 <instance part="J7" gate="G$1" x="363.22" y="-2.54"/>
+<instance part="J4" gate="G$1" x="350.52" y="3.81" rot="R180"/>
+<instance part="U$36" gate="G$1" x="157.48" y="105.41"/>
 </instances>
 <busses>
 </busses>
