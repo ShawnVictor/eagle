@@ -207,6 +207,7 @@
 <text x="5.969" y="21.59" size="0.8128" layer="25">33</text>
 <text x="8.636" y="6.35" size="1.27" layer="25">⏚</text>
 <text x="1.651" y="18.415" size="0.8128" layer="25" rot="R270">SPI</text>
+<text x="4.191" y="20.955" size="0.8128" layer="25" rot="R270">CS</text>
 </plain>
 <libraries>
 <library name="Shawn'sCustomComponents">
@@ -1272,7 +1273,7 @@ design rules under a new name.</description>
 <element name="C9" library="microbuilder" package="0805" value="10uF" x="57.023" y="9.779" rot="R270"/>
 <element name="R4" library="microbuilder" package="0603" value="10K" x="59.817" y="10.795" rot="R180"/>
 <element name="C11" library="microbuilder" package="0805" value="10uF" x="59.944" y="5.08" rot="R180"/>
-<element name="C12" library="microbuilder" package="0805" value="0.1uF" x="57.023" y="5.969" rot="R90"/>
+<element name="C12" library="microbuilder" package="0805" value="1uF" x="57.023" y="5.969" rot="R90"/>
 <element name="I2C1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="1X04" package3d_urn="urn:adsk.eagle:package:38085/1" value="" x="6.731" y="2.286" smashed="yes">
 <attribute name="PROD_ID" value="CONN-09696" x="6.731" y="2.286" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="5.461" y="0.254" size="0.6096" layer="27" font="vector" ratio="20"/>
@@ -1281,11 +1282,12 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CONN-09696" x="6.731" y="4.826" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="5.461" y="2.794" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
-<element name="U4" library="SN65HVD230D" package="SOIC127P600X175-8N" value="SN65HVD230D" x="48.514" y="17.018">
+<element name="U4" library="SN65HVD230D" package="SOIC127P600X175-8N" value="SN65HVD230D" x="48.514" y="17.018" smashed="yes">
 <attribute name="AVAILABILITY" value="Unavailable" x="48.514" y="17.018" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" 1/1 Transceiver Half CANbus 8-SOIC " x="48.514" y="17.018" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="Texas Instruments" x="48.514" y="17.018" size="1.778" layer="27" display="off"/>
 <attribute name="MP" value="SN65HVD230D" x="48.514" y="17.018" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="43.833290625" y="20.401340625" size="2.08596875" layer="25" ratio="10" rot="SR0"/>
 <attribute name="PACKAGE" value="SOIC-8 Texas Instruments" x="48.514" y="17.018" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="48.514" y="17.018" size="1.778" layer="27" display="off"/>
 </element>

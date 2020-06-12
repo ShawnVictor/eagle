@@ -6676,6 +6676,7 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <part name="R14" library="microbuilder" deviceset="RESISTOR" device="0603" value="1k"/>
 <part name="R15" library="microbuilder" deviceset="RESISTOR" device="0603" value="1k"/>
 <part name="U$38" library="microbuilder" deviceset="3.3V" device=""/>
+<part name="R16" library="microbuilder" deviceset="RESISTOR" device="0603" value="120"/>
 </parts>
 <sheets>
 <sheet>
@@ -6862,12 +6863,12 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <instance part="U$34" gate="G$1" x="49.53" y="86.36"/>
 <instance part="I2C1" gate="G$1" x="199.39" y="124.46" rot="R180"/>
 <instance part="I2C2" gate="G$1" x="219.71" y="124.46" rot="R180"/>
-<instance part="U4" gate="A" x="100.33" y="114.3"/>
-<instance part="C13" gate="G$1" x="62.23" y="111.76"/>
-<instance part="U$35" gate="G$1" x="62.23" y="96.52"/>
-<instance part="R7" gate="G$1" x="66.04" y="104.14" smashed="yes" rot="R90">
-<attribute name="NAME" x="64.008" y="102.87" size="1.27" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="66.675" y="102.87" size="1.27" layer="96" font="vector" rot="R90"/>
+<instance part="U4" gate="A" x="99.06" y="114.3"/>
+<instance part="C13" gate="G$1" x="60.96" y="111.76"/>
+<instance part="U$35" gate="G$1" x="60.96" y="96.52"/>
+<instance part="R7" gate="G$1" x="64.77" y="104.14" smashed="yes" rot="R90">
+<attribute name="NAME" x="62.738" y="102.87" size="1.27" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="65.405" y="102.87" size="1.27" layer="96" font="vector" rot="R90"/>
 </instance>
 <instance part="CAN" gate="G$1" x="190.5" y="101.6"/>
 <instance part="AUX_3V3" gate="G$1" x="212.09" y="101.6"/>
@@ -6888,6 +6889,10 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <attribute name="VALUE" x="154.305" y="107.95" size="1.27" layer="96" font="vector" rot="R90"/>
 </instance>
 <instance part="U$38" gate="G$1" x="148.59" y="127"/>
+<instance part="R16" gate="G$1" x="120.65" y="130.81" smashed="yes" rot="R90">
+<attribute name="NAME" x="118.618" y="129.54" size="1.27" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="121.285" y="129.54" size="1.27" layer="96" font="vector" rot="R90"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -7055,13 +7060,13 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <segment>
 <pinref part="C13" gate="G$1" pin="P$2"/>
 <pinref part="U4" gate="A" pin="GND"/>
-<wire x1="62.23" y1="109.22" x2="62.23" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="62.23" y1="99.06" x2="66.04" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="109.22" x2="60.96" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="99.06" x2="64.77" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="U$35" gate="G$1" pin="GND"/>
-<junction x="62.23" y="99.06"/>
+<junction x="60.96" y="99.06"/>
 <pinref part="R7" gate="G$1" pin="1"/>
-<wire x1="66.04" y1="99.06" x2="82.55" y2="99.06" width="0.1524" layer="91"/>
-<junction x="66.04" y="99.06"/>
+<wire x1="64.77" y1="99.06" x2="81.28" y2="99.06" width="0.1524" layer="91"/>
+<junction x="64.77" y="99.06"/>
 </segment>
 <segment>
 <pinref part="I2C1" gate="G$1" pin="2"/>
@@ -7516,8 +7521,8 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <net name="CAN_TX" class="0">
 <segment>
 <pinref part="U4" gate="A" pin="D"/>
-<wire x1="82.55" y1="114.3" x2="81.28" y2="114.3" width="0.1524" layer="91"/>
-<label x="81.28" y="114.3" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="81.28" y1="114.3" x2="80.01" y2="114.3" width="0.1524" layer="91"/>
+<label x="80.01" y="114.3" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="IO12"/>
@@ -7528,8 +7533,8 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <net name="CAN_RX" class="0">
 <segment>
 <pinref part="U4" gate="A" pin="R"/>
-<wire x1="82.55" y1="109.22" x2="81.28" y2="109.22" width="0.1524" layer="91"/>
-<label x="81.28" y="109.22" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="81.28" y1="109.22" x2="80.01" y2="109.22" width="0.1524" layer="91"/>
+<label x="80.01" y="109.22" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="IO27"/>
@@ -7541,15 +7546,19 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <segment>
 <pinref part="C13" gate="G$1" pin="P$1"/>
 <pinref part="U4" gate="A" pin="VCC"/>
-<wire x1="62.23" y1="116.84" x2="62.23" y2="124.46" width="0.1524" layer="91"/>
-<wire x1="62.23" y1="124.46" x2="82.55" y2="124.46" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="116.84" x2="60.96" y2="124.46" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="124.46" x2="81.28" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CANL" class="0">
 <segment>
 <pinref part="U4" gate="A" pin="CANL"/>
-<wire x1="118.11" y1="124.46" x2="119.38" y2="124.46" width="0.1524" layer="91"/>
-<label x="119.38" y="124.46" size="1.27" layer="95" xref="yes"/>
+<wire x1="116.84" y1="124.46" x2="116.84" y2="135.89" width="0.1524" layer="91"/>
+<label x="116.84" y="139.7" size="1.27" layer="95" xref="yes"/>
+<pinref part="R16" gate="G$1" pin="2"/>
+<wire x1="116.84" y1="135.89" x2="116.84" y2="139.7" width="0.1524" layer="91"/>
+<wire x1="120.65" y1="135.89" x2="116.84" y2="135.89" width="0.1524" layer="91"/>
+<junction x="116.84" y="135.89"/>
 </segment>
 <segment>
 <pinref part="CAN" gate="G$1" pin="1"/>
@@ -7560,8 +7569,13 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <net name="CANH" class="0">
 <segment>
 <pinref part="U4" gate="A" pin="CANH"/>
-<wire x1="118.11" y1="121.92" x2="119.38" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="116.84" y1="121.92" x2="118.11" y2="121.92" width="0.1524" layer="91"/>
 <label x="119.38" y="121.92" size="1.27" layer="95" xref="yes"/>
+<pinref part="R16" gate="G$1" pin="1"/>
+<wire x1="118.11" y1="121.92" x2="119.38" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="120.65" y1="125.73" x2="118.11" y2="125.73" width="0.1524" layer="91"/>
+<wire x1="118.11" y1="125.73" x2="118.11" y2="121.92" width="0.1524" layer="91"/>
+<junction x="118.11" y="121.92"/>
 </segment>
 <segment>
 <pinref part="CAN" gate="G$1" pin="2"/>
@@ -7572,10 +7586,10 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <net name="N$10" class="0">
 <segment>
 <pinref part="R7" gate="G$1" pin="2"/>
-<wire x1="66.04" y1="109.22" x2="69.85" y2="109.22" width="0.1524" layer="91"/>
-<wire x1="69.85" y1="109.22" x2="69.85" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="64.77" y1="109.22" x2="68.58" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="109.22" x2="68.58" y2="104.14" width="0.1524" layer="91"/>
 <pinref part="U4" gate="A" pin="RS"/>
-<wire x1="69.85" y1="104.14" x2="82.55" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="104.14" x2="81.28" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GPIO14" class="0">

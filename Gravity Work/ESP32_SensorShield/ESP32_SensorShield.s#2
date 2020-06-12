@@ -6985,7 +6985,9 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <segment>
 <wire x1="321.31" y1="17.78" x2="321.31" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="GND@4"/>
-<wire x1="321.31" y1="17.78" x2="321.31" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="321.31" y1="17.78" x2="321.31" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="321.31" y1="27.94" x2="321.31" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="321.31" y1="33.02" x2="321.31" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="321.31" y1="45.72" x2="300.99" y2="45.72" width="0.1524" layer="91"/>
 <junction x="321.31" y="17.78"/>
 <wire x1="321.31" y1="15.24" x2="321.31" y2="12.7" width="0.1524" layer="91"/>
@@ -6996,6 +6998,15 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <pinref part="X1" gate="G$1" pin="GND3"/>
 <wire x1="321.31" y1="15.24" x2="308.61" y2="15.24" width="0.1524" layer="91"/>
 <wire x1="308.61" y1="15.24" x2="308.61" y2="17.78" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="GND@3"/>
+<wire x1="300.99" y1="27.94" x2="321.31" y2="27.94" width="0.1524" layer="91"/>
+<junction x="321.31" y="27.94"/>
+<pinref part="X1" gate="G$1" pin="GND1"/>
+<pinref part="X1" gate="G$1" pin="GND2"/>
+<wire x1="308.61" y1="33.02" x2="313.69" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="313.69" y1="33.02" x2="321.31" y2="33.02" width="0.1524" layer="91"/>
+<junction x="313.69" y="33.02"/>
+<junction x="321.31" y="33.02"/>
 </segment>
 <segment>
 <wire x1="240.03" y1="40.64" x2="245.11" y2="40.64" width="0.1524" layer="91"/>

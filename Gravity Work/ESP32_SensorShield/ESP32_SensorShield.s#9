@@ -6854,7 +6854,7 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <instance part="U$36" gate="G$1" x="157.48" y="105.41"/>
 <instance part="J8" gate="G$1" x="383.54" y="-15.24"/>
 <instance part="U$37" gate="G$1" x="364.49" y="0"/>
-<instance part="J7" gate="G$1" x="396.24" y="5.08"/>
+<instance part="J7" gate="G$1" x="384.81" y="22.86" rot="R180"/>
 </instances>
 <busses>
 </busses>
@@ -7046,6 +7046,11 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <wire x1="361.95" y1="5.08" x2="364.49" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="364.49" y1="5.08" x2="364.49" y2="2.54" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="J7" gate="G$1" pin="2"/>
+<wire x1="377.19" y1="25.4" x2="375.92" y2="25.4" width="0.1524" layer="91"/>
+<label x="375.92" y="25.4" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
 </net>
 <net name="3.3V" class="0">
 <segment>
@@ -7152,6 +7157,11 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <pinref part="J2" gate="G$1" pin="1"/>
 <wire x1="354.33" y1="27.94" x2="353.06" y2="27.94" width="0.1524" layer="91"/>
 <label x="353.06" y="27.94" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="J7" gate="G$1" pin="1"/>
+<wire x1="377.19" y1="27.94" x2="375.92" y2="27.94" width="0.1524" layer="91"/>
+<label x="375.92" y="27.94" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="SDA" class="0">
@@ -7561,6 +7571,42 @@ Two pin, compact surface mount connector. Commonly used as a battery input conne
 <pinref part="J8" gate="G$1" pin="2"/>
 <wire x1="388.62" y1="-15.24" x2="389.89" y2="-15.24" width="0.1524" layer="91"/>
 <label x="389.89" y="-15.24" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="MISO" class="0">
+<segment>
+<pinref part="J7" gate="G$1" pin="3"/>
+<wire x1="377.19" y1="22.86" x2="375.92" y2="22.86" width="0.1524" layer="91"/>
+<label x="375.92" y="22.86" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="MISO"/>
+<wire x1="40.64" y1="52.07" x2="41.91" y2="52.07" width="0.1524" layer="91"/>
+<label x="41.91" y="52.07" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="MOSI" class="0">
+<segment>
+<pinref part="J7" gate="G$1" pin="4"/>
+<wire x1="377.19" y1="20.32" x2="375.92" y2="20.32" width="0.1524" layer="91"/>
+<label x="375.92" y="20.32" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="MOSI"/>
+<wire x1="40.64" y1="54.61" x2="41.91" y2="54.61" width="0.1524" layer="91"/>
+<label x="41.91" y="54.61" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="SCK" class="0">
+<segment>
+<pinref part="J7" gate="G$1" pin="5"/>
+<wire x1="377.19" y1="17.78" x2="375.92" y2="17.78" width="0.1524" layer="91"/>
+<label x="375.92" y="17.78" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="SCK"/>
+<wire x1="40.64" y1="49.53" x2="41.91" y2="49.53" width="0.1524" layer="91"/>
+<label x="41.91" y="49.53" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 </nets>

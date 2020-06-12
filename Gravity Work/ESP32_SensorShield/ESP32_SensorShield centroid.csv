@@ -1,0 +1,49 @@
+Screaming Circuits SMD component position file.
+
+Centroid Data for pc board: "ESP32_SensorShield.brd" as of: 6/7/2020 1:57 AM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,1.400,0.680,270
+C2,Top,1.400,0.550,90
+C3,Top,1.910,0.385,0
+C4,Top,1.505,0.265,90
+C5,Top,1.670,0.265,90
+C6,Top,1.775,0.455,0
+C7,Top,1.395,0.265,90
+C8,Top,1.910,0.455,180
+C9,Top,2.245,0.385,270
+C10,Top,1.435,0.160,0
+C11,Top,2.360,0.200,180
+C12,Top,2.245,0.235,90
+C13,Top,1.915,0.530,0
+D1,Top,1.400,0.770,0
+D2,Top,2.320,0.490,180
+IC1,Top,1.790,0.378,0
+J3,Top,2.230,0.765,0
+LED1,Top,1.400,0.410,180
+R1,Top,1.615,0.265,270
+R2,Top,1.560,0.265,270
+R3,Top,1.780,0.265,270
+R4,Top,2.355,0.425,180
+R5,Top,1.945,0.265,270
+R6,Top,1.890,0.265,270
+R7,Top,2.025,0.825,270
+R8,Top,1.775,0.510,0
+R9,Top,1.835,0.265,270
+R10,Top,1.545,0.770,180
+R11,Top,1.725,0.265,270
+R12,Top,1.575,0.160,180
+R13,Top,1.450,0.265,270
+R14,Top,1.705,0.160,180
+R15,Top,1.835,0.160,180
+R16,Top,2.060,0.525,180
+U$2,Top,1.575,0.448,0
+U$36,Top,0.415,0.445,180
+U1,Top,0.995,0.445,180
+U2,Top,2.085,0.305,0
+U3,Top,2.355,0.315,180
+U4,Top,1.910,0.670,0
+X1,Top,0.015,0.445,0
+Y1,Top,1.600,0.640,0

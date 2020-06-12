@@ -199,38 +199,38 @@
 <wire x1="0.3175" y1="9.525" x2="-0.1905" y2="9.017" width="0" layer="20"/>
 <wire x1="-0.1905" y1="9.017" x2="-0.1905" y2="2.667" width="0" layer="20"/>
 <wire x1="-0.1905" y1="2.667" x2="2.3495" y2="0.127" width="0" layer="20" curve="90"/>
-<text x="22.606" y="21.5265" size="0.8128" layer="21" ratio="12" rot="R90" align="center">USB</text>
-<text x="7.493" y="1.7145" size="0.8128" layer="21" ratio="12" rot="R270" align="center">RST</text>
-<text x="12.573" y="1.3335" size="0.8128" layer="21" ratio="12" rot="R270" align="center">NC</text>
-<text x="9.906" y="1.3335" size="0.8128" layer="21" ratio="12" rot="R270" align="center">3V</text>
-<text x="20.193" y="1.3335" size="0.8128" layer="21" ratio="12" rot="R90" align="center">A1</text>
-<text x="17.526" y="1.3335" size="0.8128" layer="21" ratio="12" rot="R270" align="center">A0</text>
-<text x="25.146" y="21.7805" size="0.8128" layer="21" ratio="12" rot="R90" align="center">13</text>
-<text x="40.3987" y="21.7551" size="0.8128" layer="21" ratio="12" rot="R270" align="center">14</text>
-<text x="30.2895" y="21.8186" size="0.8128" layer="21" ratio="12" rot="R270" align="center">27</text>
-<text x="32.8168" y="21.844" size="0.8128" layer="21" ratio="12" rot="R270" align="center">33</text>
-<text x="37.9095" y="21.844" size="0.8128" layer="21" ratio="12" rot="R270" align="center">32</text>
-<text x="32.8295" y="1.397" size="0.762" layer="21" ratio="12" rot="R270" align="center">SCK</text>
-<text x="35.3695" y="1.397" size="0.7874" layer="21" ratio="12" rot="R270" align="center">MO</text>
-<text x="37.9095" y="1.397" size="0.762" layer="21" ratio="12" rot="R270" align="center">MI</text>
-<text x="40.4495" y="1.397" size="0.762" layer="21" ratio="12" rot="R270" align="center">RX</text>
-<text x="42.9895" y="1.27" size="0.762" layer="21" ratio="12" rot="R270" align="center">TX</text>
-<text x="17.526" y="21.6535" size="0.8128" layer="21" ratio="12" rot="R270" align="center">BAT</text>
-<text x="27.6479" y="21.8186" size="0.8128" layer="21" ratio="12" rot="R90" align="center">12</text>
-<text x="35.3695" y="21.8186" size="0.8128" layer="21" ratio="12" rot="R270" align="center">15</text>
-<text x="14.986" y="1.5875" size="0.8128" layer="21" ratio="12" rot="R270" align="center">GND</text>
-<text x="20.066" y="21.6535" size="0.8128" layer="21" ratio="12" rot="R270" align="center">EN</text>
-<text x="45.6565" y="1.4605" size="0.889" layer="21" ratio="12" rot="R270" align="center">21</text>
+<text x="22.606" y="21.5265" size="0.8128" layer="51" ratio="12" rot="R90" align="center">USB</text>
+<text x="7.493" y="1.7145" size="0.8128" layer="51" ratio="12" rot="R270" align="center">RST</text>
+<text x="12.573" y="1.3335" size="0.8128" layer="51" ratio="12" rot="R270" align="center">NC</text>
+<text x="9.906" y="1.3335" size="0.8128" layer="51" ratio="12" rot="R270" align="center">3V</text>
+<text x="20.193" y="1.3335" size="0.8128" layer="51" ratio="12" rot="R90" align="center">A1</text>
+<text x="17.526" y="1.3335" size="0.8128" layer="51" ratio="12" rot="R270" align="center">A0</text>
+<text x="25.146" y="21.7805" size="0.8128" layer="51" ratio="12" rot="R90" align="center">13</text>
+<text x="40.3987" y="21.7551" size="0.8128" layer="51" ratio="12" rot="R270" align="center">14</text>
+<text x="30.2895" y="21.8186" size="0.8128" layer="51" ratio="12" rot="R270" align="center">27</text>
+<text x="32.8168" y="21.844" size="0.8128" layer="51" ratio="12" rot="R270" align="center">33</text>
+<text x="37.9095" y="21.844" size="0.8128" layer="51" ratio="12" rot="R270" align="center">32</text>
+<text x="32.8295" y="1.397" size="0.762" layer="51" ratio="12" rot="R270" align="center">SCK</text>
+<text x="35.3695" y="1.397" size="0.7874" layer="51" ratio="12" rot="R270" align="center">MO</text>
+<text x="37.9095" y="1.397" size="0.762" layer="51" ratio="12" rot="R270" align="center">MI</text>
+<text x="40.4495" y="1.397" size="0.762" layer="51" ratio="12" rot="R270" align="center">RX</text>
+<text x="42.9895" y="1.27" size="0.762" layer="51" ratio="12" rot="R270" align="center">TX</text>
+<text x="17.526" y="21.6535" size="0.8128" layer="51" ratio="12" rot="R270" align="center">BAT</text>
+<text x="27.6479" y="21.8186" size="0.8128" layer="51" ratio="12" rot="R90" align="center">12</text>
+<text x="35.3695" y="21.8186" size="0.8128" layer="51" ratio="12" rot="R270" align="center">15</text>
+<text x="14.986" y="1.5875" size="0.8128" layer="51" ratio="12" rot="R270" align="center">GND</text>
+<text x="20.066" y="21.6535" size="0.8128" layer="51" ratio="12" rot="R270" align="center">EN</text>
+<text x="45.6565" y="1.4605" size="0.889" layer="51" ratio="12" rot="R270" align="center">21</text>
 <hole x="62.865" y="1.9685" drill="2.2"/>
 <hole x="62.865" y="21.082" drill="2.2"/>
-<text x="22.6568" y="1.3081" size="0.8128" layer="21" ratio="12" rot="R90" align="center">A2</text>
-<text x="30.2895" y="1.524" size="0.889" layer="21" ratio="12" rot="R90" align="center">A5</text>
-<text x="42.9895" y="21.6535" size="0.762" layer="21" ratio="12" rot="R90" align="center">SCL</text>
-<text x="45.72" y="21.59" size="0.8128" layer="21" ratio="12" rot="R90" align="center">SDA</text>
-<text x="8.128" y="22.4155" size="0.6096" layer="21" font="vector" ratio="12" rot="R180" align="center">huzzah!</text>
-<text x="25.1714" y="1.4351" size="0.8128" layer="21" ratio="12" rot="R90" align="center">A3</text>
-<text x="27.7495" y="1.397" size="0.889" layer="21" ratio="12" rot="R90" align="center">A4</text>
-<text x="5.1435" y="22.352" size="0.6096" layer="21" font="vector" ratio="12" rot="R180" align="center">ESP32!</text>
+<text x="22.6568" y="1.3081" size="0.8128" layer="51" ratio="12" rot="R90" align="center">A2</text>
+<text x="30.2895" y="1.524" size="0.889" layer="51" ratio="12" rot="R90" align="center">A5</text>
+<text x="42.9895" y="21.6535" size="0.762" layer="51" ratio="12" rot="R90" align="center">SCL</text>
+<text x="45.72" y="21.59" size="0.8128" layer="51" ratio="12" rot="R90" align="center">SDA</text>
+<text x="8.128" y="22.4155" size="0.6096" layer="51" font="vector" ratio="12" rot="R180" align="center">huzzah!</text>
+<text x="25.1714" y="1.4351" size="0.8128" layer="51" ratio="12" rot="R90" align="center">A3</text>
+<text x="27.7495" y="1.397" size="0.889" layer="51" ratio="12" rot="R90" align="center">A4</text>
+<text x="5.1435" y="22.352" size="0.6096" layer="51" font="vector" ratio="12" rot="R180" align="center">ESP32!</text>
 <pad name="1" x="6.1595" y="1.397" drill="1.016"/>
 <pad name="2" x="8.6995" y="1.397" drill="1.016"/>
 <pad name="3" x="11.2395" y="1.397" drill="1.016"/>
